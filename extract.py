@@ -10,7 +10,7 @@ def extract_keywords(job_description):
     prompt = f"Extract the key technical skills (e.g., Python, SQL, C++) from the following job description. Please list the skills separated by commas:\n\n{job_description}\n\nSkills (comma-separated):"
     
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo", 
+        model="gpt-4o-mini", 
         messages=[
             {"role": "system", "content": "You are a helpful assistant that extracts technical skills from job descriptions."},
             {"role": "user", "content": prompt}
@@ -48,7 +48,7 @@ with open('jobs.csv', 'r', encoding='utf-8') as file:  # Specify UTF-8 encoding
             print(f"Error processing job from {company}: {str(e)}")
 
 # Save processed data to a JSON file
-with open('jobs_with_skills2.json', 'w', encoding='utf-8') as json_file:
+with open('jobs_with_skills_4omini.json', 'w', encoding='utf-8') as json_file:
     json.dump(jobs, json_file, indent=4, ensure_ascii=False)  # Ensure non-ASCII characters are properly handled
 
 print("Skills extraction completed and saved to 'jobs_with_skills.json'")
