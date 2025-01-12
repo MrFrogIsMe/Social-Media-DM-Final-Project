@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Dolby Laboratories",
+        "title": "Data Analyst Intern (Summer 2025)",
+        "skills": [
+            "Microsoft Excel",
+            "Salesforce",
+            "Tableau",
+            "Power BI"
+        ]
+    },
+    {
+        "company": "Heart & Sail Tours",
+        "title": "Virtual Booking Assistant -Work From Home",
+        "skills": [
+            "No technical skills are listed in the job description."
+        ]
+    },
+    {
+        "company": "Pegasus Airlines",
+        "title": "Business Development Specialist / Associate",
+        "skills": [
+            "Microsoft Word",
+            "Excel",
+            "PowerPoint",
+            "Outlook",
+            "AI"
+        ]
+    },
+    {
+        "company": "Tesla",
+        "title": "Internship, Security Engineer, Applications Engineering (Summer 2025)",
+        "skills": [
+            "Python",
+            "Go",
+            "Java",
+            "Ruby",
+            "C/C++",
+            "SIEM",
+            "SQL",
+            "Splunk"
+        ]
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Software Engineer- New Grad [For Fall 2024 Event Attendees]",
+        "skills": [
+            "Java",
+            "Python",
+            "AWS",
+            "Cloud Native technology",
+            "No-SQL Databases"
+        ]
+    }
+]
