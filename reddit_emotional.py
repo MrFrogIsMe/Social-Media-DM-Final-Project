@@ -5,6 +5,7 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 import nltk
 import seaborn as sns
 import matplotlib.pyplot as plt
+from wordcloud import WordCloud
 
 # Step 1: 讀取資料
 # 請將 'reddit.csv' 替換為你的檔案路徑
@@ -101,11 +102,32 @@ plt.xlabel('Sentiment Score')
 plt.ylabel('Frequency')
 plt.show()
 
-# Step 7: 儲存結果
+# Step 7: 文字雲視覺化
+# 組合所有正向和負向字詞
+all_positive_words = ' '.join([' '.join(words) for words in df['positive_words']])
+all_negative_words = ' '.join([' '.join(words) for words in df['negative_words']])
+
+# 繪製正向文字雲
+positive_wordcloud = WordCloud(width=800, height=400, background_color='white').generate(all_positive_words)
+plt.figure(figsize=(10, 6))
+plt.imshow(positive_wordcloud, interpolation='bilinear')
+plt.axis('off')
+plt.title('Positive Words Word Cloud')
+plt.show()
+
+# 繪製負向文字雲
+negative_wordcloud = WordCloud(width=800, height=400, background_color='black', colormap='Reds').generate(all_negative_words)
+plt.figure(figsize=(10, 6))
+plt.imshow(negative_wordcloud, interpolation='bilinear')
+plt.axis('off')
+plt.title('Negative Words Word Cloud')
+plt.show()
+
+# Step 8: 儲存結果
 # 將處理後的資料儲存為新檔案
 df.to_csv("reddit_sentiment_analysis.csv", index=False)
 
-# Step 8: 找出情緒最強的文章
+# Step 9: 找出情緒最強的文章
 # 排序後輸出正向與負向情緒分數最高的文章
 top_positive = df.nlargest(5, 'body_sentiment')
 top_negative = df.nsmallest(5, 'body_sentiment')
