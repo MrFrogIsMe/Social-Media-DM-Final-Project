@@ -56,7 +56,7 @@ def explain_soft_skills(soft_skills):
 jobs = []
 all_soft_skills = []
 type_soft_skills = defaultdict(list)  # Dictionary to store soft skills grouped by type
-with open('./few_american_jobs_classified.csv', 'r', encoding='utf-8') as file:  # Specify UTF-8 encoding
+with open('./american_jobs_classified.csv', 'r', encoding='utf-8') as file:  # Specify UTF-8 encoding
     reader = csv.DictReader(file)
     for row in reader:
         company = row['company']
