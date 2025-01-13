@@ -17,7 +17,7 @@ def extract_soft_skills(job_description):
     )
     
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo", 
+        model="gpt-4o-mino", 
         messages=[
             {"role": "system", "content": "You are a helpful assistant that extracts soft skills from job descriptions."},
             {"role": "user", "content": prompt}
