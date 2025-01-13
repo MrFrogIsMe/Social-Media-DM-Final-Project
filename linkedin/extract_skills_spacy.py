@@ -9,8 +9,7 @@ data = {
     'description': [],
 }
 
-filename = 'american_jobs.csv'
-
+filename = 'american_jobs_classified.csv'
 with open(filename, 'r', newline='') as file:
     reader = csv.reader(file)
     for row in reader:
