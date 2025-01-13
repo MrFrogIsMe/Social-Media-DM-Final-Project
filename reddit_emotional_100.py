@@ -11,6 +11,9 @@ from wordcloud import WordCloud
 # 請將 'reddit.csv' 替換為你的檔案路徑
 df = pd.read_csv("reddit_data.csv")
 
+# 取前100筆
+df = df.head(100)
+
 # 移除 comments 欄位
 df = df.drop(columns=['comments'])
 
@@ -128,7 +131,7 @@ plt.show()
 
 # Step 8: 儲存結果
 # 將處理後的資料儲存為新檔案
-df.to_csv("reddit_sentiment_analysis.csv", index=False)
+df.to_csv("reddit_sentiment_analysis_100.csv", index=False)
 
 # Step 9: 找出情緒最強的文章
 # 排序後輸出正向與負向情緒分數最高的文章
@@ -141,4 +144,4 @@ print(top_positive[['title', 'body', 'body_sentiment']])
 print("\n前五高負向文章:")
 print(top_negative[['title', 'body', 'body_sentiment']])
 
-print("分析完成，結果已儲存為 'reddit_sentiment_analysis.csv'")
+print("分析完成，結果已儲存為 'reddit_sentiment_analysis_100.csv'")
