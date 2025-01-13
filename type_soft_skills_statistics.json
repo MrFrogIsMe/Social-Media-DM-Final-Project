@@ -1,0 +1,63 @@
+{
+    "Intern": {
+        "Communication": 1,
+        "teamwork": 1,
+        "problem-solving": 1,
+        "adaptability": 1,
+        "attention to detail": 1,
+        "collaboration": 1,
+        "eagerness to learn": 1,
+        "written and verbal communication skills": 1
+    },
+    "Unknown": {
+        "Communication": 1,
+        "teamwork": 1,
+        "problem-solving": 1,
+        "adaptability": 1,
+        "customer service": 1,
+        "attention to detail": 1,
+        "multitasking": 1,
+        "autonomy": 1,
+        "collaboration": 1,
+        "passion for travel": 1,
+        "interpersonal skills.": 1
+    },
+    "AI/Machine Learning Engineer": {
+        "Communication": 1,
+        "teamwork": 1,
+        "problem-solving": 1,
+        "adaptability": 1,
+        "organizational skills": 1,
+        "time management": 1,
+        "collaboration": 1,
+        "market research": 1,
+        "reporting": 1,
+        "presentation skills": 1,
+        "innovation": 1,
+        "creativity": 1,
+        "resourcefulness": 1,
+        "motivation": 1,
+        "responsiveness": 1,
+        "ability to work in a fast-paced environment.": 1
+    },
+    "Cybersecurity Engineer": {
+        "collaboration": 1,
+        "detail-oriented": 1,
+        "execution focused": 1,
+        "curiosity": 1,
+        "communication": 1,
+        "teamwork": 1,
+        "adaptability": 1,
+        "problem-solving": 1
+    },
+    "Full-Stack Developer": {
+        "communication": 1,
+        "teamwork": 1,
+        "problem-solving": 1,
+        "adaptability": 1,
+        "learning agility": 1,
+        "empathy": 1,
+        "collaboration": 1,
+        "diversity and inclusion": 1
+    }
+}
