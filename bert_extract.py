@@ -57,7 +57,7 @@ tech_keywords = {
 
     # 其他
     "blockchain", "ethereum", "solidity", "smart contracts", "robotics", "edge computing", 
-    "iot", "augmented reality", "virtual reality", "game development", "unity", "unreal engine"
+    "iot", "augmented reality", "virtual reality", "game development", "unity", "unreal engine","Tableau","Power BI","data analysis"
 }
 
 def extract_keywords(text, extractor):
