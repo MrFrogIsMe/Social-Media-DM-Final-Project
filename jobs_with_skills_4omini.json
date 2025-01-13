@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Dolby Laboratories",
+        "title": "Data Analyst Intern (Summer 2025)",
+        "skills": [
+            "Microsoft Excel",
+            "Salesforce",
+            "Tableau",
+            "Power BI",
+            "data analysis",
+            "market research",
+            "data visualization",
+            "problem-solving",
+            "data cleaning",
+            "data compilation",
+            "analytical support"
+        ]
+    },
+    {
+        "company": "Heart & Sail Tours",
+        "title": "Virtual Booking Assistant -Work From Home",
+        "skills": [
+            "Customer service",
+            "communication skills",
+            "organizational skills",
+            "multitasking",
+            "attention to detail",
+            "problem-solving skills",
+            "knowledge of travel destinations",
+            "bilingual abilities",
+            "remote work capabilities."
+        ]
+    },
+    {
+        "company": "Pegasus Airlines",
+        "title": "Business Development Specialist / Associate",
+        "skills": [
+            "Microsoft Word",
+            "Microsoft Excel",
+            "Microsoft PowerPoint",
+            "Microsoft Outlook",
+            "AI",
+            "robotics",
+            "market research",
+            "technology scouting",
+            "partnership building",
+            "project management"
+        ]
+    },
+    {
+        "company": "Tesla",
+        "title": "Internship, Security Engineer, Applications Engineering (Summer 2025)",
+        "skills": [
+            "Python",
+            "Go",
+            "Java",
+            "Ruby",
+            "C/C++",
+            "SIEM",
+            "SQL",
+            "Splunk",
+            "malware analysis",
+            "phishing kits",
+            "network captures",
+            "exploits",
+            "web application security",
+            "penetration testing"
+        ]
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Software Engineer- New Grad [For Fall 2024 Event Attendees]",
+        "skills": [
+            "Java",
+            "Python",
+            "AWS",
+            "Cloud Native technology",
+            "No-SQL Databases"
+        ]
+    }
+]

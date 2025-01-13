@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Dolby Laboratories",
+        "title": "Data Analyst Intern (Summer 2025)",
+        "skills": [
+            "Data analysis",
+            "Market research",
+            "Microsoft Excel",
+            "Salesforce",
+            "Data visualization",
+            "Tableau",
+            "Power BI"
+        ]
+    },
+    {
+        "company": "Heart & Sail Tours",
+        "title": "Virtual Booking Assistant -Work From Home",
+        "skills": [
+            "communication skills",
+            "organizational skills",
+            "multitasking",
+            "attention to detail",
+            "customer service",
+            "problem-solving",
+            "travel knowledge"
+        ]
+    },
+    {
+        "company": "Pegasus Airlines",
+        "title": "Business Development Specialist / Associate",
+        "skills": [
+            "Microsoft Word",
+            "Excel",
+            "PowerPoint",
+            "Outlook",
+            "AI",
+            "technology trends",
+            "tech events",
+            "market research",
+            "communication skills",
+            "organizational abilities",
+            "technology scouting",
+            "strategic partnerships",
+            "business development",
+            "collaboration",
+            "innovation",
+            "project management",
+            "data analysis",
+            "industry trends",
+            "teamwork",
+            "leadership",
+            "problem-solving"
+        ]
+    },
+    {
+        "company": "Tesla",
+        "title": "Internship, Security Engineer, Applications Engineering (Summer 2025)",
+        "skills": [
+            "Python",
+            "Go",
+            "Java",
+            "Ruby",
+            "C/C++",
+            "SIEM",
+            "SQL",
+            "Splunk"
+        ]
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Software Engineer- New Grad [For Fall 2024 Event Attendees]",
+        "skills": [
+            "Java",
+            "Python",
+            "AWS",
+            "Cloud Native technology",
+            "No-SQL databases",
+            "Agile methodologies",
+            "Test-driven development",
+            "Software design patterns."
+        ]
+    }
+]
