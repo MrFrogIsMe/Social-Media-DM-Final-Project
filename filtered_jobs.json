@@ -1,0 +1,7526 @@
+[
+    {
+        "company": "Dolby Laboratories",
+        "title": "Data Analyst Intern (Summer 2025)",
+        "skills": [
+            "excel"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Pegasus Airlines",
+        "title": "Business Development Specialist / Associate",
+        "skills": [
+            "robotics",
+            "word",
+            "excel",
+            "ai",
+            "powerpoint"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Tesla",
+        "title": "Internship, Security Engineer, Applications Engineering (Summer 2025)",
+        "skills": [
+            "ruby",
+            "go",
+            "sql",
+            "c++",
+            "c",
+            "java",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Software Engineer- New Grad [For Fall 2024 Event Attendees]",
+        "skills": [
+            "sql",
+            "aws",
+            "java",
+            "python"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "KBR, Inc.",
+        "title": "Entry-Level Software Engineer",
+        "skills": [
+            "c++",
+            "sql",
+            "java"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "AO Globe Life",
+        "title": "Virtual Work from Home Position",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "NBCUniversal",
+        "title": "Administrative Analyst",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Tesla",
+        "title": "Internship, Data Engineer, System Software (Summer 2025)",
+        "skills": [
+            "nlp",
+            "docker",
+            "sql",
+            "etl",
+            "spark",
+            "kubernetes",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Snap Inc.",
+        "title": "Data Scientist, 3+ Years of Experience",
+        "skills": [
+            "sql",
+            "r",
+            "c",
+            "express",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Technical Writer, AWS Customer Service, AWS Customer Service Content Developers",
+        "skills": [
+            "aws"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "Amazon",
+        "title": "Applied Scientist, GenAI, CreativeX, Amazon Advertising",
+        "skills": [
+            "c++",
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u601d\u79d1",
+        "title": "Software Developer",
+        "skills": [
+            "docker",
+            "elasticsearch",
+            "cassandra",
+            "kafka",
+            "angular",
+            "react",
+            "git",
+            "kubernetes",
+            "java",
+            "aws",
+            "spring",
+            "redis"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Data Scientist , ABDAI",
+        "skills": [
+            "go",
+            "sql",
+            "perl",
+            "r",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Data Scientist , ABDAI",
+        "skills": [
+            "go",
+            "sql",
+            "perl",
+            "r",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Spotnana",
+        "title": "Technical Support & AI Data Quality Specialist",
+        "skills": [
+            "javascript",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Remote: iOS Developer",
+        "skills": [
+            "swift"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "AO Globe Life",
+        "title": "Virtual Work from Home Position",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Novo Nordisk",
+        "title": "Internship - Data Engineer",
+        "skills": [
+            "excel",
+            "powerpoint",
+            "r",
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Tech Consulting",
+        "title": "Junior Devops Engineer",
+        "skills": [
+            "ruby",
+            "azure",
+            "go",
+            "sql",
+            "jenkins",
+            "java",
+            "gitlab",
+            "postgresql",
+            "terraform",
+            "c#",
+            "python"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Technical Writer, AWS Customer Service, AWS Customer Service Content Developers",
+        "skills": [
+            "aws"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "AO Globe Life",
+        "title": "Virtual Work from Home Position",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Amazon",
+        "title": "Business Intelligence Engineer - Logistics, ORBIT",
+        "skills": [
+            "sql",
+            "etl",
+            "aws",
+            "r",
+            "python"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "DataDasher",
+        "title": "AI Full-Stack Software Engineer",
+        "skills": [
+            "nlp",
+            "javascript",
+            "azure",
+            "aws",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Single: the direct-to-fan app for Shopify",
+        "title": "Software Engineer | Fully Remote (US Only) | Full-Time",
+        "skills": [
+            "docker",
+            "sql",
+            "kafka",
+            "angular",
+            "mysql",
+            "kubernetes",
+            "aws",
+            "java",
+            "spring",
+            "redis"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Software Engineer: Microsoft Software and Systems Academy (MSSA)",
+        "skills": [
+            "javascript",
+            "c++",
+            "c",
+            "java",
+            "c#",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Snap Inc.",
+        "title": "Data Scientist, 3+ Years of Experience",
+        "skills": [
+            "sql",
+            "r",
+            "c",
+            "express",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Fingerpaint Group",
+        "title": "AI Agent Engineer",
+        "skills": [
+            "docker",
+            "azure",
+            "go",
+            "less",
+            "react",
+            "spark",
+            "excel",
+            "aws",
+            "ai",
+            "typescript",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Applied Scientist , Amazon Fulfillment Technologies (AFT) AI",
+        "skills": [
+            "nlp",
+            "robotics",
+            "c++",
+            "java",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "micro1",
+        "title": "AI/ML Engineer",
+        "skills": [
+            "sql",
+            "git",
+            "aws",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "DataDasher",
+        "title": "AI Full-Stack Software Engineer",
+        "skills": [
+            "nlp",
+            "javascript",
+            "azure",
+            "aws",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "IBM",
+        "title": "Cloud and GenAI Research Intern 2025",
+        "skills": [
+            "less",
+            "blockchain",
+            "kubernetes",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Leidos",
+        "title": "Cyber Analyst Intern",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Bain Capital",
+        "title": "Research Associate",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "KBR, Inc.",
+        "title": "Entry-Level Software Engineer",
+        "skills": [
+            "c++",
+            "python"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Snap Inc.",
+        "title": "Data Scientist, 3+ Years of Experience",
+        "skills": [
+            "sql",
+            "r",
+            "c",
+            "express",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Verdant Robotics",
+        "title": "Machine Learning Intern",
+        "skills": [
+            "robotics",
+            "c++",
+            "excel",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Web Designer",
+        "skills": [
+            "go",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Genie ",
+        "title": "AI software developer",
+        "skills": [
+            "nlp",
+            "c++",
+            "java",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Pegasus Airlines",
+        "title": "Business Development Specialist / Associate",
+        "skills": [
+            "robotics",
+            "word",
+            "excel",
+            "ai",
+            "powerpoint"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Applied Scientist, Customer Experience and Business Trends",
+        "skills": [
+            "nlp",
+            "c++",
+            "java",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Kognitos",
+        "title": "Graphic Design - Intern",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Numerator",
+        "title": "Technical Product Management Intern",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "sql"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Amazon",
+        "title": "Applied Scientist, Customer Experience and Business Trends",
+        "skills": [
+            "nlp",
+            "c++",
+            "java",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Verdant Robotics",
+        "title": "Machine Learning Intern",
+        "skills": [
+            "robotics",
+            "c++",
+            "excel",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Data Engineer, Workforce Solutions - Analytics and Tech",
+        "skills": [
+            "aws",
+            "sql",
+            "etl"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "Amazon",
+        "title": "Business Intelligence Engineer - Logistics, ORBIT",
+        "skills": [
+            "sql",
+            "etl",
+            "aws",
+            "r",
+            "python"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Python Developer",
+        "skills": [
+            "sql",
+            "aws",
+            "java",
+            "c",
+            "python"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "Single: the direct-to-fan app for Shopify",
+        "title": "Software Engineer | Fully Remote (US Only) | Full-Time",
+        "skills": [
+            "docker",
+            "sql",
+            "kafka",
+            "angular",
+            "mysql",
+            "kubernetes",
+            "aws",
+            "java",
+            "spring",
+            "redis"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Software Engineer II",
+        "skills": [
+            "azure",
+            "less",
+            "c++",
+            "c",
+            "kubernetes",
+            "iot"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Tesla",
+        "title": "Internship, Software Engineer, Update Systems (Summer 2025)",
+        "skills": [
+            "python"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Data Analyst, Strategy Analytics",
+        "skills": [
+            "sql",
+            "r",
+            "python"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Universal Creative",
+        "title": "Associate Engineer, Ride & Show Engineering - Software Architecture",
+        "skills": [
+            "c++",
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Frontend Engineer & UX/UI Designer, Data & Machine Learning, WWPS US Federal",
+        "skills": [
+            "aws",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u745e\u9280\u74b0\u7403\u8cc7\u7522\u7ba1\u7406",
+        "title": "2026 Summer Internship - Global Banking - LA, SF, CHI",
+        "skills": [
+            "powerpoint",
+            "excel"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure",
+        "skills": [
+            "sql",
+            "kafka",
+            "mysql",
+            "iot",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "postgresql",
+            "redis",
+            "mongodb",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "React Native Engineer, Mobile Foundation",
+        "skills": [
+            "typescript",
+            "graphql",
+            "react",
+            "javascript"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "\u745e\u9280\u74b0\u7403\u8cc7\u7522\u7ba1\u7406",
+        "title": "2026 Summer Internship - Global Banking - LA, SF, CHI",
+        "skills": [
+            "powerpoint",
+            "excel"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Frontend Engineer & UX/UI Designer, Data & Machine Learning, WWPS US Federal",
+        "skills": [
+            "aws",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "AEFIS",
+        "title": "UI/UX Developer (Remote)",
+        "skills": [
+            "react",
+            "javascript"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Webster Bank",
+        "title": "Summer Intern - Cybersecurity & IT Risk",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "SynergisticIT",
+        "title": "Data Analyst/Engineer - Entry Level",
+        "skills": [
+            "docker",
+            "javascript",
+            "ai",
+            "jenkins",
+            "excel",
+            "java",
+            "c",
+            "spring",
+            "github",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Meter",
+        "title": "Network Engineer, AI Trainer",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Amazon Robotics - Electrical Engineer Co-op - July to December 2025, Amazon Robotics",
+        "skills": [
+            "robotics"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Business Intelligence Engineer, Fundamentum",
+        "skills": [
+            "etl",
+            "sql",
+            "spark",
+            "aws",
+            "excel",
+            "java",
+            "r",
+            "python"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure",
+        "skills": [
+            "sql",
+            "kafka",
+            "mysql",
+            "iot",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "postgresql",
+            "redis",
+            "mongodb",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Meter",
+        "title": "Network Engineer, AI Trainer",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u5f6d\u535a\u8cc7\u8a0a",
+        "title": "Executive Assistant, Bloomberg Media",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Frontend Engineer & UX/UI Designer, Data & Machine Learning, WWPS US Federal",
+        "skills": [
+            "aws",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Hyundai Motor America",
+        "title": "Intern, Data Analytics & Performance Optimization",
+        "skills": [
+            "word",
+            "excel",
+            "r",
+            "powerpoint",
+            "python"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "\u535a\u4e16\u5317\u7f8e",
+        "title": "Robot Learning Research Intern",
+        "skills": [
+            "nlp",
+            "robotics",
+            "r",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Snap Inc.",
+        "title": "Senior Data Scientist, 5+ Years of Experience",
+        "skills": [
+            "sql",
+            "r",
+            "c",
+            "express",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Tutoria",
+        "title": "Volunteer: Web developer- REMOTE",
+        "skills": [
+            "ruby",
+            "javascript"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": ".Net Developer",
+        "skills": [
+            "selenium",
+            "sql",
+            "aws",
+            "c",
+            "c#"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "Amazon",
+        "title": "Software Development Engineer II, Disability and Leave Services",
+        "skills": [
+            "aws"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Kenect",
+        "title": "Data Engineer",
+        "skills": [
+            "go",
+            "etl",
+            "sql",
+            "git",
+            "spark",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Software Development Engineer, Ads Core Services (ACS)",
+        "skills": [
+            "go",
+            "aws"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "IBM",
+        "title": "Full Stack Developer",
+        "skills": [
+            "docker",
+            "javascript",
+            "elasticsearch",
+            "azure",
+            "django",
+            "blockchain",
+            "sql",
+            "angular",
+            "less",
+            "gcp",
+            "aws",
+            "ai",
+            "typescript",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Cloud Support Engineer-I, GovCloud Support Team (US)",
+        "skills": [
+            "ruby",
+            "c#",
+            "javascript",
+            "azure",
+            "go",
+            "r",
+            "aws",
+            "java",
+            "python"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "CDK Global",
+        "title": "Associate Technical Support Analyst - Networks",
+        "skills": [
+            "wireshark"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Recruit Monitor",
+        "title": "Data Entry Technician / Typing - Remote",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Collective Health",
+        "title": "Data Engineer",
+        "skills": [
+            "etl",
+            "sql",
+            "spark",
+            "presto",
+            "hive",
+            "python"
+        ],
+        "type": "Data Scientist"
+    },
+    {
+        "company": "Click-Ads Media",
+        "title": "Work From Home Data Entry Clerk (Entry Level)",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "The Home Depot",
+        "title": "DATA SCIENTIST - SUPPLY CHAIN",
+        "skills": [
+            "nlp",
+            "bigquery",
+            "less",
+            "sql",
+            "excel",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7f8e\u570b\u52a0\u5dde\u5927\u5b78\u723e\u7063\u5206\u6821",
+        "title": "Office Coordinator",
+        "skills": [
+            "less",
+            "php"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "TikTok",
+        "title": "Machine Learning Engineer Graduate (Content Ecology) - 2025 Start (MS)",
+        "skills": [
+            "nlp",
+            "c++",
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Ketch",
+        "title": "Senior Backend Software Engineer",
+        "skills": [
+            "elasticsearch",
+            "azure",
+            "go",
+            "gcp",
+            "aws",
+            "java",
+            "kubernetes",
+            "python"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Illumio",
+        "title": "CloudSecure Intern (Summer 2025)",
+        "skills": [
+            "javascript",
+            "azure",
+            "spring",
+            "c#",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Pinterest",
+        "title": "Machine Learning Engineer, Core Engineering",
+        "skills": [
+            "hadoop",
+            "spark"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Metron",
+        "title": "Research Scientist",
+        "skills": [
+            "c++",
+            "c",
+            "java",
+            "spring",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "DevAI",
+        "title": "Founding Applied AI Engineer",
+        "skills": [
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Auctane",
+        "title": "Solutions Engineer - Los Angeles, CA",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Uber",
+        "title": "Design Engineer II",
+        "skills": [
+            "unity",
+            "javascript",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Meter",
+        "title": "Network Engineer, AI Trainer",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+        "skills": [
+            "elasticsearch",
+            "sql",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Remote Contract Junior Mobile Developer - iOS",
+        "skills": [
+            "swift",
+            "react",
+            "git",
+            "c",
+            "graphql"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Software Engineer, SpotMe",
+        "skills": [
+            "ruby"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Rosendin",
+        "title": "Project Assistant",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Sierra Space",
+        "title": "Test Engineering Intern (Part-Time)",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word",
+            "c"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Applied Scientist, AWS SAAR",
+        "skills": [
+            "c++",
+            "aws",
+            "java",
+            "ai",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Research Intern - AI Frontiers - Agentic AI Models & Synthetic Data Generation",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Coinbase",
+        "title": "Machine Learning Engineer - Platform",
+        "skills": [
+            "ethereum",
+            "blockchain",
+            "excel",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "UCAR - The University Corporation for Atmospheric Research",
+        "title": "COSMIC IT Student Intern",
+        "skills": [
+            "less"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Tomo - AI language tutor",
+        "title": "Product Manager Intern (Paid Internship)",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Senior Associate, Global Trade Technology",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Remote Contract Junior Mobile Developer - iOS",
+        "skills": [
+            "swift",
+            "react",
+            "git",
+            "c",
+            "graphql"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Al_Siddiq Team",
+        "title": "UX Content Writer",
+        "skills": [
+            "robotics"
+        ],
+        "type": "UI/UX Designers"
+    },
+    {
+        "company": "Lawrence Livermore National Laboratory",
+        "title": "Global Security Graduate Student Intern - Summer 2025",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Lawrence Livermore National Laboratory",
+        "title": "Data Science Institute Undergraduate Student Intern - Summer 2025",
+        "skills": [
+            "go",
+            "r",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Web Software Developer",
+        "skills": [
+            "javascript",
+            "php",
+            "azure",
+            "angular",
+            "mysql",
+            "aws",
+            "typescript",
+            "postgresql",
+            "mongodb"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Applied Scientist II",
+        "skills": [
+            "go",
+            "c++",
+            "aws",
+            "java",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Leidos",
+        "title": "Technical Writer",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Viant",
+        "title": "Staff Software Engineer",
+        "skills": [
+            "go",
+            "sql",
+            "mysql",
+            "gcp",
+            "aws",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+        "skills": [
+            "elasticsearch",
+            "sql",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Pegasus Airlines",
+        "title": "Business Development Specialist / Associate",
+        "skills": [
+            "robotics",
+            "word",
+            "excel",
+            "ai",
+            "powerpoint"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Leidos",
+        "title": "CTO Technical Intern - Artificial Intelligence",
+        "skills": [
+            "azure",
+            "robotics",
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Frank, Rimerman + Co. LLP",
+        "title": "IT Service Desk Associate - San Diego office",
+        "skills": [
+            "c"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Snap Inc.",
+        "title": "Senior Data Scientist, 5+ Years of Experience",
+        "skills": [
+            "sql",
+            "r",
+            "c",
+            "express",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u601d\u79d1",
+        "title": "Senior Software Engineer",
+        "skills": [
+            "docker",
+            "elasticsearch",
+            "cassandra",
+            "kafka",
+            "angular",
+            "react",
+            "git",
+            "kubernetes",
+            "java",
+            "aws",
+            "spring",
+            "redis"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Solution Architect / Functional Analyst - 126331",
+        "skills": [
+            "mongodb",
+            "java"
+        ],
+        "type": "Software Architect"
+    },
+    {
+        "company": "Viant",
+        "title": "Sr. Software Engineer, Runtime",
+        "skills": [
+            "java",
+            "ai",
+            "mysql"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Senior Software Engineer, Minecraft",
+        "skills": [
+            "javascript",
+            "azure",
+            "react",
+            "angular",
+            "c++",
+            "kubernetes",
+            "c",
+            "java",
+            "c#",
+            "python"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "UNDP Careers",
+        "title": "AI for Sustainable Development Manager - Home based",
+        "skills": [
+            "robotics",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Tesla",
+        "title": "Internship, Haskell Software Developer, Vehicle Firmware (Summer 2025)",
+        "skills": [
+            "python"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "\u9999\u6e2f\u661f\u5df4\u514b",
+        "title": "program manager, Global Business Services Delivery (Hybrid, U.S)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Koniag Government Services",
+        "title": "DevOps Engineer (Remote)",
+        "skills": [
+            "c#",
+            "sql",
+            "git",
+            "aws",
+            "github",
+            "terraform",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Applied Scientist, Customer Experience and Business Trends",
+        "skills": [
+            "nlp",
+            "c++",
+            "java",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u601d\u79d1",
+        "title": "Senior Software Engineer",
+        "skills": [
+            "docker",
+            "python",
+            "kubernetes"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer",
+        "skills": [
+            "azure",
+            "sql",
+            "react",
+            "angular",
+            "git",
+            "vue",
+            "aws",
+            "c",
+            "graphql"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+        "skills": [
+            "elasticsearch",
+            "sql",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Cross-platform C++ - Multipass",
+        "skills": [
+            "azure",
+            "gcp",
+            "c++",
+            "aws",
+            "ai",
+            "iot"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Summit Consulting",
+        "title": "Full Stack Developer",
+        "skills": [
+            "docker",
+            "azure",
+            "aws",
+            "postgresql",
+            "c#"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Senior Applied Scientist, Artificial General Intelligence",
+        "skills": [
+            "c++",
+            "java",
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Lead Specialist, AI Solutions Architect",
+        "skills": [
+            "nlp",
+            "docker",
+            "azure",
+            "go",
+            "react",
+            "angular",
+            "git",
+            "jenkins",
+            "aws",
+            "java",
+            "ansible",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "7N",
+        "title": "Software Engineer",
+        "skills": [
+            "javascript",
+            "sql",
+            "react",
+            "git",
+            "jenkins",
+            "kubernetes",
+            "typescript",
+            "github"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Enterprise Developer",
+        "skills": [
+            "ruby"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Research Intern - Knowledge and Reasoning",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "NVIDIA",
+        "title": "GPU Compute Compiler Engineer - New College Grad 2024",
+        "skills": [
+            "c++"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Viant",
+        "title": "Sales Engineer",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Employers Options",
+        "title": "$22/hour | Part-Time Administrative Assistant | Flexible Hours &amp; Career Growth!",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Umicas",
+        "title": "software Engineer",
+        "skills": [
+            "ruby",
+            "docker",
+            "javascript",
+            "azure",
+            "sql",
+            "angular",
+            "react",
+            "git",
+            "vue",
+            "aws",
+            "java",
+            "kubernetes",
+            "github",
+            "python"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Gesture",
+        "title": "Digital Marketing Intern",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Cube",
+        "title": "Principal Software Engineer (Database Engineering)",
+        "skills": [
+            "ruby",
+            "c#",
+            "docker",
+            "javascript",
+            "sql",
+            "react",
+            "gcp",
+            "aws",
+            "java",
+            "github",
+            "rust",
+            "python"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Software Engineer II",
+        "skills": [
+            "javascript",
+            "azure",
+            "c++",
+            "c",
+            "java",
+            "c#",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Full Stack Web Developer",
+        "skills": [
+            "javascript",
+            "php",
+            "sql",
+            "git",
+            "mysql",
+            "perl"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+        "skills": [
+            "elasticsearch",
+            "sql",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Golden Hippo\u00ae",
+        "title": "Order Revenue Management Operations Representative",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Member of Technical Staff, Platform Engineer",
+        "skills": [
+            "azure",
+            "gcp",
+            "c++",
+            "aws",
+            "java",
+            "ai",
+            "rust",
+            "c#",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Lawrence Livermore National Laboratory",
+        "title": "Defense Science and Technology Internship Undergraduate Student - Summer 2025",
+        "skills": [
+            "c++",
+            "go",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Blackbaud",
+        "title": "Cyber Security Splunk Administrator",
+        "skills": [
+            "ruby",
+            "azure",
+            "less",
+            "gcp",
+            "aws",
+            "ansible",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Employers Options",
+        "title": "$22/hour | Part-Time Administrative Assistant | Flexible Hours &amp; Career Growth!",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Tester",
+        "skills": [
+            "aws",
+            "c"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "\u7f85\u5175\u54b8\u6c38\u9053",
+        "title": "Google Cloud Data Engineer [No-Code/Low-Code]-Senior Manager",
+        "skills": [
+            "bigquery",
+            "hadoop",
+            "etl",
+            "sql",
+            "kafka",
+            "spark",
+            "gcp",
+            "snowflake",
+            "ai",
+            "terraform"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Ketch",
+        "title": "Senior Frontend Software Engineer",
+        "skills": [
+            "javascript",
+            "go",
+            "gcp",
+            "aws",
+            "typescript",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Python Software Engineer - Ubuntu Server Certification",
+        "skills": [
+            "docker",
+            "python"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+        "skills": [
+            "elasticsearch",
+            "sql",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Aston Carter",
+        "title": "Data Entry Clerk",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Viant",
+        "title": "Sales Engineer",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Senior Customer Success Specialist - Connect, Connect Specialty Sales",
+        "skills": [
+            "c",
+            "aws",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Blackbaud",
+        "title": "Cyber Security Splunk Administrator",
+        "skills": [
+            "ruby",
+            "azure",
+            "less",
+            "gcp",
+            "aws",
+            "ansible",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Pitney Bowes",
+        "title": "Data Sciences & AI Developer",
+        "skills": [
+            "nlp",
+            "docker",
+            "fastapi",
+            "azure",
+            "kubernetes",
+            "c",
+            "ai",
+            "mongodb",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Sr. Engineer, Technology Engineering",
+        "skills": [
+            "azure",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Crystal Dynamics",
+        "title": "IT Support Specialist II",
+        "skills": [
+            "azure"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Tactical Engineering and Analysis, Inc.",
+        "title": "Test Specialist Intern",
+        "skills": [
+            "excel",
+            "word",
+            "spring"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Employers Options",
+        "title": "$22/hour | Part-Time Administrative Assistant | Flexible Hours &amp; Career Growth!",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "\u7f85\u5175\u54b8\u6c38\u9053",
+        "title": "Google Cloud Data Engineer [No-Code/Low-Code]-Senior Manager",
+        "skills": [
+            "bigquery",
+            "hadoop",
+            "etl",
+            "sql",
+            "kafka",
+            "spark",
+            "gcp",
+            "snowflake",
+            "ai",
+            "terraform"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+        "skills": [
+            "elasticsearch",
+            "sql",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Cross-platform C++ - Multipass",
+        "skills": [
+            "azure",
+            "gcp",
+            "c++",
+            "aws",
+            "ai",
+            "iot"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Lawrence Livermore National Laboratory",
+        "title": "Space Science Institute Undergraduate Student Intern - Summer 2025",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Research Intern - Applied Science in Viva Insights",
+        "skills": [
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Unreal Game Designer",
+        "skills": [
+            "c++",
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Senior Associate, Project Management",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word",
+            "go"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Dolby Laboratories",
+        "title": "Video Coding Research Intern (Summer 2025)",
+        "skills": [
+            "c++",
+            "c",
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Hologic, Inc.",
+        "title": "Technical Data Specialist",
+        "skills": [
+            "sql",
+            "r",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "OMD USA",
+        "title": "Associate, Digital Activation",
+        "skills": [
+            "excel",
+            "hive"
+        ],
+        "type": "Data Scientist"
+    },
+    {
+        "company": "Altus Group",
+        "title": "Analyst, Advisory",
+        "skills": [
+            "swift",
+            "excel"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Docusign",
+        "title": "Lead Data Scientist",
+        "skills": [
+            "go",
+            "sql",
+            "r",
+            "ai",
+            "github",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "ViFive",
+        "title": "Software Engineer (iOS/Swift)",
+        "skills": [
+            "swift",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Fingerpaint Group",
+        "title": "AI Innovation Strategist",
+        "skills": [
+            "less",
+            "r",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer",
+        "skills": [
+            "kafka",
+            "react",
+            "aws",
+            "java",
+            "c",
+            "spring"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "New College Grad, Hardware Integration Engineer",
+        "skills": [
+            "less"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Software Engineer - Digital Workplace",
+        "skills": [
+            "javascript",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Employers Options",
+        "title": "$22/hour | Part-Time Administrative Assistant | Flexible Hours &amp; Career Growth!",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Amazon",
+        "title": "Security Engineer - Hardware, Firmware, Virtualization, Secure Hardware And Foundational Technologies Team",
+        "skills": [
+            "aws",
+            "iot"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Viant",
+        "title": "Sr. Software Engineer",
+        "skills": [
+            "sql",
+            "etl",
+            "mysql",
+            "aws",
+            "java"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Skydio",
+        "title": "Operations Program Manager, Manufacturing",
+        "skills": [
+            "r"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Senior Software Engineer, Growth",
+        "skills": [
+            "ruby"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Software Engineer - Digital Workplace",
+        "skills": [
+            "javascript",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure - Kafka",
+        "skills": [
+            "elasticsearch",
+            "sql",
+            "kafka",
+            "mysql",
+            "spark",
+            "iot",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "postgresql",
+            "redis",
+            "mongodb",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Senior Associate, Project Management",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word",
+            "go"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Blackbaud",
+        "title": "Cyber Security Splunk Administrator",
+        "skills": [
+            "ruby",
+            "azure",
+            "less",
+            "gcp",
+            "aws",
+            "ansible",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Data Analyst, Strategy Analytics",
+        "skills": [
+            "sql",
+            "r",
+            "python"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Fidelis Ventures",
+        "title": "Investment Associate",
+        "skills": [
+            "excel",
+            "powerpoint",
+            "c",
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Software Engineer - Digital Workplace",
+        "skills": [
+            "javascript",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Software Engineer, Financial Platform",
+        "skills": [
+            "ruby",
+            "go",
+            "sql",
+            "aws",
+            "java",
+            "python"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Technology Ambassador",
+        "skills": [
+            "swift",
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "FCB Health New York | An IPG Health Company",
+        "title": "Associate Project Manager",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Software Engineer - Digital Workplace",
+        "skills": [
+            "javascript",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Remote Contract Junior Mobile Developer - Android",
+        "skills": [
+            "swift",
+            "react",
+            "git",
+            "java",
+            "kotlin",
+            "graphql"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "SOFTWARE DEVELOPER",
+        "skills": [
+            "docker",
+            "javascript",
+            "azure",
+            "sql",
+            "angular",
+            "git",
+            "postgresql",
+            "c#"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "\u7f85\u5175\u54b8\u6c38\u9053",
+        "title": "Google Cloud Data Engineer [No-Code/Low-Code]-Senior Manager",
+        "skills": [
+            "bigquery",
+            "hadoop",
+            "etl",
+            "sql",
+            "kafka",
+            "spark",
+            "gcp",
+            "snowflake",
+            "ai",
+            "terraform"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Hustle Notice Biz",
+        "title": "Data Entry Clerk",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "AO Globe Life",
+        "title": "Virtual Benefits Rep (fully remote)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Senior Software Engineer",
+        "skills": [
+            "javascript",
+            "azure",
+            "c++",
+            "c",
+            "java",
+            "ai",
+            "c#",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Snowflake",
+        "title": "Activation Sales Engineer",
+        "skills": [
+            "bigquery",
+            "azure",
+            "sql",
+            "snowflake",
+            "aws",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Wist Labs Inc.",
+        "title": "Founding ML/CV Engineer - Immersive Memories, AR/VR",
+        "skills": [
+            "swift",
+            "unity",
+            "r",
+            "firebase",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Leidos",
+        "title": "CTO Technical Intern - Cyber",
+        "skills": [
+            "azure",
+            "powerpoint",
+            "aws",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Blackbaud",
+        "title": "Cyber Security Splunk Administrator",
+        "skills": [
+            "ruby",
+            "azure",
+            "less",
+            "gcp",
+            "aws",
+            "ansible",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Software Engineer - Digital Workplace",
+        "skills": [
+            "javascript",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Software Engineer - Digital Workplace",
+        "skills": [
+            "javascript",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Software Engineer - Digital Workplace",
+        "skills": [
+            "javascript",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Federal Express Corporation",
+        "title": "Package Handler - Part Time (Warehouse like)",
+        "skills": [
+            "express"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Federal Express Corporation",
+        "title": "Package Handler - Part Time (Warehouse like)",
+        "skills": [
+            "express"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Blackbaud",
+        "title": "Cyber Security Splunk Administrator",
+        "skills": [
+            "ruby",
+            "azure",
+            "less",
+            "gcp",
+            "aws",
+            "ansible",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Lead Specialist, AI Solutions Architect",
+        "skills": [
+            "nlp",
+            "docker",
+            "azure",
+            "go",
+            "react",
+            "angular",
+            "git",
+            "jenkins",
+            "aws",
+            "java",
+            "ansible",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Cloud Support Engineer-II, GovCloud Support Team (US)",
+        "skills": [
+            "ruby",
+            "c#",
+            "javascript",
+            "azure",
+            "go",
+            "r",
+            "aws",
+            "java",
+            "python"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "Blackbaud",
+        "title": "Cyber Security Splunk Administrator",
+        "skills": [
+            "ruby",
+            "azure",
+            "less",
+            "gcp",
+            "aws",
+            "ansible",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Sr. Engineer, Technology Engineering",
+        "skills": [
+            "azure",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Senior Customer Success Specialist - Connect, Connect Specialty Sales",
+        "skills": [
+            "c",
+            "aws",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Lead Specialist, AI Solutions Architect",
+        "skills": [
+            "nlp",
+            "docker",
+            "azure",
+            "go",
+            "react",
+            "angular",
+            "git",
+            "jenkins",
+            "aws",
+            "java",
+            "ansible",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Technology Ambassador",
+        "skills": [
+            "swift",
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Software Engineer - Digital Workplace",
+        "skills": [
+            "javascript",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Software Engineer - Digital Workplace",
+        "skills": [
+            "javascript",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "TikTok",
+        "title": "Marketing Intelligence Data Analyst, NA Business Marketing",
+        "skills": [
+            "bigquery",
+            "r",
+            "python",
+            "mysql"
+        ],
+        "type": "Data Scientist"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Software Engineer - Digital Workplace",
+        "skills": [
+            "javascript",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Cloud Support Engineer-II, GovCloud Support Team (US)",
+        "skills": [
+            "ruby",
+            "c#",
+            "javascript",
+            "azure",
+            "go",
+            "r",
+            "aws",
+            "java",
+            "python"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - OpenStack",
+        "skills": [
+            "docker",
+            "go",
+            "kubernetes",
+            "c",
+            "openstack",
+            "ai",
+            "postgresql",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "TikTok",
+        "title": "Machine Learning Engineer - E-commerce Risk Control",
+        "skills": [
+            "ruby",
+            "c++",
+            "r",
+            "java",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Blackbaud",
+        "title": "Cyber Security Splunk Administrator",
+        "skills": [
+            "ruby",
+            "azure",
+            "less",
+            "gcp",
+            "aws",
+            "ansible",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "MongoDB",
+        "title": "Senior Software Engineer, Code Generation",
+        "skills": [
+            "javascript",
+            "azure",
+            "sql",
+            "aws",
+            "java",
+            "ai",
+            "postgresql",
+            "mongodb"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "AML RightSource",
+        "title": "Associate Trainer, Development Program",
+        "skills": [
+            "express"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Applied Scientist, GenAI, CreativeX, Amazon Advertising",
+        "skills": [
+            "c++",
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Sr. Engineer, Technology Engineering",
+        "skills": [
+            "azure",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Delta Air Lines",
+        "title": "Data Analytics Specialist",
+        "skills": [
+            "aws",
+            "go",
+            "sql",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Data Scientist",
+        "skills": [
+            "aws",
+            "c"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "HMH",
+        "title": "Machine Learning Engineer",
+        "skills": [
+            "sql",
+            "spark",
+            "jenkins",
+            "c++",
+            "dask",
+            "r",
+            "snowflake",
+            "ai",
+            "github",
+            "terraform",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Data Analyst, Strategy Analytics",
+        "skills": [
+            "sql",
+            "r",
+            "python"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mesh Systems",
+        "title": "Embedded Firmware Engineer",
+        "skills": [
+            "azure",
+            "git",
+            "c++",
+            "c",
+            "java",
+            "ai",
+            "rust",
+            "iot",
+            "c#"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": ".Net Developer",
+        "skills": [
+            "aws",
+            "kafka",
+            "c"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "Expression",
+        "title": "AI Engineer (Generative AI)",
+        "skills": [
+            "azure",
+            "gcp",
+            "aws",
+            "java",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Employers Options",
+        "title": "$22/hour | Part-Time Administrative Assistant | Flexible Hours &amp; Career Growth!",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Cogent Communications",
+        "title": "PHP Developer-Orlando FL",
+        "skills": [
+            "javascript",
+            "php",
+            "laravel",
+            "mysql",
+            "java"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Amazon",
+        "title": "Security Engineer - Hardware, Firmware, Virtualization, Secure Hardware And Foundational Technologies Team",
+        "skills": [
+            "aws",
+            "iot"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Software Engineer - Digital Workplace",
+        "skills": [
+            "javascript",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Quantitative Analyst",
+        "skills": [
+            "less"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Talent Groups",
+        "title": "Web Developer",
+        "skills": [
+            "javascript",
+            "react",
+            "git",
+            "kubernetes",
+            "typescript"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Python Software Engineer - Ubuntu Server Certification",
+        "skills": [
+            "docker",
+            "python"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Senior Researcher -- Artificial Intelligence and Machine Learning \u2013 Microsoft Research",
+        "skills": [
+            "r",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Whitecollars",
+        "title": "Artificial Intelligence/Machine Learning Engineer",
+        "skills": [
+            "hadoop",
+            "sql",
+            "spark",
+            "r",
+            "java",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Viant",
+        "title": "Principal Software Engineer, Runtime",
+        "skills": [
+            "go",
+            "sql",
+            "mysql",
+            "gcp",
+            "aws"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Sr. Engineer, Technology Engineering",
+        "skills": [
+            "azure",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Petco",
+        "title": "Stocker / Cashier",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Blackbaud",
+        "title": "Cyber Security Splunk Administrator",
+        "skills": [
+            "ruby",
+            "azure",
+            "less",
+            "gcp",
+            "aws",
+            "ansible",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Dolby Laboratories",
+        "title": "Market Development Intern (Summer 2025)",
+        "skills": [
+            "go"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "The Home Depot",
+        "title": "DATA ANALYST - SUPPLY CHAIN ANALYTICS",
+        "skills": [
+            "less",
+            "sql"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "U.S. Customs and Border Protection",
+        "title": "Information Technology Specialist",
+        "skills": [
+            "c"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Lawrence Livermore National Laboratory",
+        "title": "Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2025",
+        "skills": [
+            "wireshark",
+            "docker",
+            "go",
+            "c++",
+            "c",
+            "java",
+            "spring",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Lawrence Livermore National Laboratory",
+        "title": "Computing Undergraduate Student Intern - Summer 2025",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word",
+            "go"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Senior Programmer Analyst (BATCH/UNIX/LINUX/C) - HYBRID: TALLAHASSEE, FL",
+        "skills": [
+            "c",
+            "java",
+            "sql"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Global Executive & Private Client Group (GEPC) Associate",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word",
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "NVIDIA",
+        "title": "Solutions Architect - Cloud AI",
+        "skills": [
+            "azure",
+            "go",
+            "c++",
+            "c",
+            "ai",
+            "github",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Rocket Lawyer",
+        "title": "Senior AI/ML Software Engineer (Remote in San Francisco)",
+        "skills": [
+            "sql",
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Insomnia Cookies",
+        "title": "Cookie Delivery Driver",
+        "skills": [
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Wist Labs Inc.",
+        "title": "Founding ML/CV Engineer - Immersive Memories, AR/VR",
+        "skills": [
+            "swift",
+            "unity",
+            "r",
+            "firebase",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Blackbaud",
+        "title": "Cyber Security Splunk Administrator",
+        "skills": [
+            "ruby",
+            "azure",
+            "less",
+            "gcp",
+            "aws",
+            "ansible",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Half Price Books",
+        "title": "Bookseller",
+        "skills": [
+            "r"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California State University, Northridge",
+        "title": "Guest Services Coordinator",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Viatris\u6689\u81f4",
+        "title": "Intern, Information Protection & Awareness (Information Security)",
+        "skills": [
+            "powerpoint",
+            "excel"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Viant",
+        "title": "Technical Recruiter",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Tesla",
+        "title": "Internship, Integration Platforms Software Developer, Vehicle Firmware (Summer 2025)",
+        "skills": [
+            "flask",
+            "go",
+            "kafka",
+            "react",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Help Desk Analyst III",
+        "skills": [
+            "go",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Associate, Japanese Executive Services",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Research Intern - MSR Intelligent Networked Systems",
+        "skills": [
+            "azure",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Associate, Biz Analysis",
+        "skills": [
+            "go",
+            "sql"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "TikTok",
+        "title": "Learning & Enablement Partner, Global Product Education",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "International Rescue Committee",
+        "title": "Asylum Seekers Case Management Comp Sci Volunteer",
+        "skills": [
+            "excel",
+            "python"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Fastly",
+        "title": "Employee Communications Associate",
+        "skills": [
+            "github"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Technology Risk, Senior Associate",
+        "skills": [
+            "go",
+            "robotics",
+            "ai",
+            "jenkins",
+            "aws",
+            "gitlab",
+            "github"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": ".Net Developer",
+        "skills": [
+            "vue"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "U.S. Customs and Border Protection",
+        "title": "Information Technology Specialist",
+        "skills": [
+            "c"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Sr Embedded Audio Software Engineer",
+        "skills": [
+            "react"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "M Resort Spa Casino",
+        "title": "Marketing Specialist - Player Development Full Time",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Frontwave Credit Union",
+        "title": "Software Developer II (Onsite)",
+        "skills": [
+            "javascript",
+            "sql",
+            "c++",
+            "java",
+            "github",
+            "c#"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Employers Options",
+        "title": "$22/hour | Part-Time Administrative Assistant | Flexible Hours &amp; Career Growth!",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "AO Globe Life",
+        "title": "100% Work from Home Client Service Rep",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Melissa",
+        "title": "Customer Success Representative",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Nava",
+        "title": "Senior Infrastructure Engineer (Software)",
+        "skills": [
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "DAn Solutions",
+        "title": "Software Engineer",
+        "skills": [
+            "sql",
+            "react",
+            "angular",
+            "git",
+            "vue"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "UC San Diego Health",
+        "title": "Clinical Research Coordinator Assistant - 133838",
+        "skills": [
+            "gcp",
+            "less",
+            "excel",
+            "word"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "\u601d\u79d1",
+        "title": "Senior Software Engineer",
+        "skills": [
+            "c++",
+            "c"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer",
+        "skills": [
+            "sql",
+            "react",
+            "hapi",
+            "java",
+            "kotlin",
+            "terraform"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+        "skills": [
+            "elasticsearch",
+            "sql",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - OpenStack",
+        "skills": [
+            "docker",
+            "go",
+            "kubernetes",
+            "c",
+            "openstack",
+            "ai",
+            "postgresql",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Cambridge Health Alliance",
+        "title": "Applications Analyst II- EPIC Order",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Sanford Health",
+        "title": "Information Security Operations Engineer",
+        "skills": [
+            "r"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Det Norske Veritas (DNV-GL)",
+        "title": "Junior Surveyor",
+        "skills": [
+            "r"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Schneider Saddlery",
+        "title": "Full Stack Developer",
+        "skills": [
+            "javascript",
+            "azure",
+            "sql",
+            "react",
+            "etl",
+            "gcp",
+            "aws",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Sr. Engineer, Technology Engineering",
+        "skills": [
+            "azure",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "\u5fb7\u5dde\u5100\u5668",
+        "title": "Business & Operations Intern",
+        "skills": [
+            "go",
+            "r"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Gesture",
+        "title": "Logistics & Operations Intern",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "NextEra Energy Resources",
+        "title": "Geospatial Data Scientist",
+        "skills": [
+            "git",
+            "c",
+            "r",
+            "aws",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Digital Marketing Specialist",
+        "skills": [
+            "go",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Centennial",
+        "title": "Administrative Assistant",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Lawrence Livermore National Laboratory",
+        "title": "Livermore Center for Quantum Science (LCQS) - Graduate Student Intern - Summer 2025",
+        "skills": [
+            "go",
+            "word",
+            "excel",
+            "powerpoint",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Whitecollars",
+        "title": "Graphic Designer",
+        "skills": [
+            "javascript"
+        ],
+        "type": "UI/UX Designers"
+    },
+    {
+        "company": "Shopify",
+        "title": "Craft Success Program Manager, Revenue L&D",
+        "skills": [
+            "excel",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u8def\u6613\u5a01\u767b",
+        "title": "Talent Acquisition Specialist",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Shopify",
+        "title": "Technical Program Manager, Revenue Operations",
+        "skills": [
+            "go",
+            "excel"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Shopify",
+        "title": "Revenue Operations Specialist",
+        "skills": [
+            "excel",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Technical Help Desk I",
+        "skills": [
+            "go",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Firmware Engineer",
+        "skills": [
+            "react",
+            "git",
+            "c++",
+            "aws",
+            "github",
+            "postgresql"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Sanford Health",
+        "title": "Information Security Operations Engineer",
+        "skills": [
+            "r"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Delaware North",
+        "title": "Barback, Petco Park",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Senior Applied AI Engineer",
+        "skills": [
+            "javascript",
+            "azure",
+            "gcp",
+            "c++",
+            "c",
+            "java",
+            "aws",
+            "ai",
+            "c#",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Hustle Notice Biz",
+        "title": "Data Entry Clerk",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Global Senior CE Application Service Engineer",
+        "skills": [
+            "azure",
+            "c"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Technology Risk, Senior Associate",
+        "skills": [
+            "go",
+            "robotics",
+            "ai",
+            "jenkins",
+            "aws",
+            "gitlab",
+            "github"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Sr. Engineer, Technology Engineering",
+        "skills": [
+            "azure",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Sr. Security Operations Engineer",
+        "skills": [
+            "azure",
+            "c++",
+            "c#",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Site Reliability Engineer II- CTJ - Top Secret",
+        "skills": [
+            "azure",
+            "c++",
+            "c#"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Lawrence Livermore National Laboratory",
+        "title": "Global Security Undergraduate Student Intern - Summer 2025",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Infinite Capital",
+        "title": "Front End Developer",
+        "skills": [
+            "angular",
+            "react",
+            "javascript"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Dolby Laboratories",
+        "title": "Internal Audit Intern (Summer 2025)",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Technology Ambassador",
+        "skills": [
+            "swift",
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mortgage365",
+        "title": "Software Engineer IV - Back End",
+        "skills": [
+            "less",
+            "c#",
+            "git"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "SynergisticIT",
+        "title": "Software Developer",
+        "skills": [
+            "docker",
+            "javascript",
+            "ai",
+            "jenkins",
+            "c++",
+            "java",
+            "spring",
+            "github",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Data Science Intern",
+        "skills": [
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Viant",
+        "title": "Principal Software Engineer",
+        "skills": [
+            "azure",
+            "go",
+            "sql",
+            "mysql",
+            "gcp",
+            "aws",
+            "java",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "ServiceNow",
+        "title": "Staff Systems Engineer, Cloud Infrastructure",
+        "skills": [
+            "ruby",
+            "azure",
+            "go",
+            "gcp",
+            "aws",
+            "java",
+            "ansible",
+            "ai",
+            "terraform",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Data Science Intern",
+        "skills": [
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+        "skills": [
+            "elasticsearch",
+            "sql",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer, Sustaining Engineering",
+        "skills": [
+            "docker",
+            "go",
+            "git",
+            "c++",
+            "kubernetes",
+            "c",
+            "openstack",
+            "ai",
+            "postgresql",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Salesforce",
+        "title": "Accessibility Leader, Technical Support Engineering",
+        "skills": [
+            "go"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Associate Director, Technology Innovation",
+        "skills": [
+            "azure",
+            "go",
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "NielsenIQ",
+        "title": "Senior Data Engineering",
+        "skills": [
+            "azure",
+            "etl",
+            "bitbucket",
+            "spark",
+            "jenkins",
+            "r",
+            "aws",
+            "github",
+            "python"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Senior Software Engineer",
+        "skills": [
+            "javascript",
+            "git",
+            "c++",
+            "c",
+            "java",
+            "c#",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Snap Inc.",
+        "title": "Group Manager, Marketing Science",
+        "skills": [
+            "express",
+            "sql",
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Viant",
+        "title": "Sales Engineer",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "VXI Global Solutions",
+        "title": "Senior Technical Program Manager",
+        "skills": [
+            "go"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Sr. Engineer, Technology Engineering",
+        "skills": [
+            "azure",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Sr. Engineer, Technology Engineering",
+        "skills": [
+            "azure",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Avenue5 Residential",
+        "title": "Part-Time Leasing Consultant",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Avenue5 Residential",
+        "title": "Leasing Consultant",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Marvin Behavioral Health",
+        "title": "Information Technology Support Engineer",
+        "skills": [
+            "aws",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Exl Service Private Limited,Noida",
+        "title": "Gen AI Software Developer",
+        "skills": [
+            "nlp",
+            "flask",
+            "react",
+            "gcp",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Associate, Trade and Customs (Mandarin Speaking)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "SEI",
+        "title": "Operations Tap2Ride Analyst",
+        "skills": [
+            "excel",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Help Desk Analyst II",
+        "skills": [
+            "go",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Pacific Hospitality Group",
+        "title": "Business Systems Analyst",
+        "skills": [
+            "sql"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Confident Marketing Bizz",
+        "title": "Marketing Assistant",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Technology Ambassador",
+        "skills": [
+            "swift",
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Service Designer, GenAI Experience",
+        "skills": [
+            "go",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Full Stack .Net Developer",
+        "skills": [
+            "javascript",
+            "sql",
+            "etl",
+            "aws",
+            "c",
+            "c#"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "DESC (Downtown Emergency Service Center)",
+        "title": "Housing Development Program Coordinator",
+        "skills": [
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Uber",
+        "title": "CPG Catalog Ops Manager",
+        "skills": [
+            "excel",
+            "sql",
+            "python"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Web Application Lead (PHP)",
+        "skills": [
+            "javascript",
+            "php",
+            "go",
+            "laravel",
+            "mysql",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7f8e\u5546\u9ad8\u901a\u570b\u969b\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Senior Windows OS Drivers Developer Engineer - PC Compute",
+        "skills": [
+            "c++",
+            "c",
+            "java",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Pearce Services",
+        "title": "Logistic Coordinator",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Sr. Engineer, Technology Engineering",
+        "skills": [
+            "azure",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Uwajimaya Inc.",
+        "title": "GROCERY CLERK - BEAVERTON",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Lawrence Livermore National Laboratory",
+        "title": "Computing Undergraduate Student Intern - Spring 2025",
+        "skills": [
+            "go",
+            "word",
+            "excel",
+            "spring",
+            "powerpoint"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "U.S. Bank",
+        "title": "Global Custody Market Registration Analyst - Operations",
+        "skills": [
+            "excel"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Digital Nomad Entertainment",
+        "title": "Level Designer",
+        "skills": [
+            "nomad"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Fusion Technology LLC",
+        "title": "Software Developer",
+        "skills": [
+            "sql",
+            "angular",
+            "aws",
+            "java",
+            "python"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Senior Associate, Project Management",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word",
+            "go"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "AtkinsR\u00e9alis",
+        "title": "Applications Developer II",
+        "skills": [
+            "go",
+            "java"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Senior Associate, Project Management",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word",
+            "go"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "UI Engineer",
+        "skills": [
+            "typescript",
+            "angular",
+            "javascript"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Help Desk Analyst",
+        "skills": [
+            "go",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Python Software Engineer - Ubuntu Server Certification",
+        "skills": [
+            "docker",
+            "python"
+        ],
+        "type": "Devops Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Sr. Engineer, Technology Engineering",
+        "skills": [
+            "azure",
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Avenue5 Residential",
+        "title": "Leasing Consultant",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "SEI",
+        "title": "Sustainability Analyst",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Data Scientist"
+    },
+    {
+        "company": "Kreative Technologies, LLC",
+        "title": "Software Developer",
+        "skills": [
+            "java",
+            "javascript"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Tesla",
+        "title": "Service Advisor",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "San Diego County Regional Airport Authority",
+        "title": "Business Intelligence Specialist",
+        "skills": [
+            "sql",
+            "etl",
+            "excel",
+            "r",
+            "python"
+        ],
+        "type": "Data Scientist"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "iOS Engineer",
+        "skills": [
+            "swift",
+            "react",
+            "git",
+            "c",
+            "graphql"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Cube",
+        "title": "Principal Software Engineer",
+        "skills": [
+            "javascript",
+            "bigquery",
+            "sql",
+            "typescript",
+            "aws",
+            "snowflake",
+            "github",
+            "postgresql",
+            "rust"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "FreeUp",
+        "title": "Freelancer Jobs",
+        "skills": [
+            "javascript",
+            "php"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "BridgePoint Healthcare",
+        "title": "Hospital Patient Care Tech - PCT - PRN Days",
+        "skills": [
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer, Sustaining Engineering",
+        "skills": [
+            "docker",
+            "go",
+            "git",
+            "c++",
+            "kubernetes",
+            "c",
+            "openstack",
+            "ai",
+            "postgresql",
+            "iot",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Viant",
+        "title": "Sr. Programmatic Account Strategist",
+        "skills": [
+            "sql",
+            "javascript",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Eurasia Group",
+        "title": "Associate Director, Business Operations at GZERO Media",
+        "skills": [
+            "go"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "24 Hour Fitness",
+        "title": "Sales and Service Associate",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Government Finance Officers Association (GFOA)",
+        "title": "Program Associate, CPFO Program",
+        "skills": [
+            "excel",
+            "c"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Everlight Solar",
+        "title": "Data Analyst",
+        "skills": [
+            "sql"
+        ],
+        "type": "Data Scientist"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Lead Software Engineer",
+        "skills": [
+            "typescript",
+            "aws",
+            "iot",
+            "javascript"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Software Engineer - Data Infrastructure - Kafka",
+        "skills": [
+            "elasticsearch",
+            "sql",
+            "kafka",
+            "mysql",
+            "spark",
+            "iot",
+            "kubernetes",
+            "openstack",
+            "ai",
+            "postgresql",
+            "redis",
+            "mongodb",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Jobs via Dice",
+        "title": "Data Engineer",
+        "skills": [
+            "azure",
+            "hadoop",
+            "go",
+            "etl",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Associate Director, Technology Innovation",
+        "skills": [
+            "azure",
+            "go",
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "FPI Management",
+        "title": "Affordable Housing Leasing Consultant (REF7568N)",
+        "skills": [
+            "c",
+            "react"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "dentsu",
+        "title": "Senior Associate, Client Solutions & Planning",
+        "skills": [
+            "excel"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "ServiceNow",
+        "title": "Senior Capacity Engineer",
+        "skills": [
+            "ruby",
+            "javascript",
+            "azure",
+            "mysql",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Circle K",
+        "title": "Real Estate Strategy Intern",
+        "skills": [
+            "powerpoint",
+            "excel"
+        ],
+        "type": "Data Scientist"
+    },
+    {
+        "company": "\u7562\u99ac\u5a01\u6703\u8a08\u5e2b\u4e8b\u52d9\u6240\u7f8e\u570b",
+        "title": "Tax Processor",
+        "skills": [
+            "go",
+            "excel",
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Memorial Sloan Kettering Cancer Center",
+        "title": "Associate I, Room Service - Main Campus",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Collective Health",
+        "title": "Data Engineer",
+        "skills": [
+            "etl",
+            "sql",
+            "spark",
+            "presto",
+            "hive",
+            "python"
+        ],
+        "type": "Data Scientist"
+    },
+    {
+        "company": "Microsoft Power Platform Community",
+        "title": "Site Reliability Engineer II",
+        "skills": [
+            "azure",
+            "hadoop",
+            "spark",
+            "gcp",
+            "aws",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "MSR Technology Group",
+        "title": "WordPress Developer with AEM Experience",
+        "skills": [
+            "sql",
+            "javascript",
+            "php"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Bilingual Classroom Instructional Aide (Chinese/Mandarin)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Globe Life",
+        "title": "Your Remote Career Awaits",
+        "skills": [
+            "go",
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Barnes & Noble, Inc.",
+        "title": "Barista - PT",
+        "skills": [
+            "go",
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Phoenix Recruitment ",
+        "title": "Application security analyst",
+        "skills": [
+            "owasp",
+            "docker",
+            "java",
+            "wireshark"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Patterned Learning AI",
+        "title": "Software Engineering Lead",
+        "skills": [
+            "typescript",
+            "excel",
+            "react",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Allen Architectural Engineering, PC",
+        "title": "Website Designer",
+        "skills": [
+            "javascript"
+        ],
+        "type": "UI/UX Designers"
+    },
+    {
+        "company": "Phoenix Recruitment ",
+        "title": "QA Assurance Analyst",
+        "skills": [
+            "java",
+            "python"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Los Angeles Department of Water and Power",
+        "title": "EXECUTIVE DIRECTOR OF SECURITY SERVICES",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Phoenix Recruitment ",
+        "title": "Quality Assurance Tester",
+        "skills": [
+            "selenium",
+            "word",
+            "gitlab"
+        ],
+        "type": "UI/UX Designers"
+    },
+    {
+        "company": "Globe Life",
+        "title": "Entry Level WFH",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "AVID Tutor",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Globe Life",
+        "title": "WFH Travel the World",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Mandarin-Chinese Substitute Teacher (Costa Mesa Campus)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Library Assistant II",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Moderate/Severe Robinson Elementary School, 6 hours/day, 5 days/week, 9.5 mo",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Internship - Portfolio Management",
+        "skills": [
+            "excel",
+            "powerpoint",
+            "r",
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Internship - Bioinformatics",
+        "skills": [
+            "excel",
+            "powerpoint",
+            "r",
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Internship - Computational Biology",
+        "skills": [
+            "word",
+            "excel",
+            "r",
+            "ai",
+            "powerpoint"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Mild/Moderate Foothill Ranch Elementary School, 3.7 hours/day, 5 days/week,",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "The Learning Experience",
+        "title": "Assistant Preschool Teacher 2:30-6:30",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Mild/Moderate Robinson Elementary School, 6 hours/day, 5 days/week, 9.5 mont",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Intensive Behavioral Instruction(IBI) Glen Yermo Elementary School, 6 hours/",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Intensive Behavioral Instruction(IBI) Valencia Elementary School, 6 hours/da",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Intensive Behavioral Instruction(IBI) Cielo Vista Elementary School, 6 hours",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Intensive Behavioral Instruction(IBI) DEL CERRO ELEMENTARY School, 6 hours/d",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Intensive Behavioral Instruction(IBI) DEL CERRO ELEMENTARY School, 6 hours/d",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Intensive Behavioral Instruction(IBI) La Paz Intermediate, 6 hours/day, 5 da",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Manhattan Beach Unified School District",
+        "title": "Instructional Assistant- Instrumental Music Elementary",
+        "skills": [
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "WORK FROM HOME",
+        "title": "Accenture Job Openings : Work From Home Jobs",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Institute of International Education",
+        "title": "Program Officer, Project GO and Language Training Center Programs (Hybrid)",
+        "skills": [
+            "go"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Phoenix Recruitment ",
+        "title": "Application Security Analyst",
+        "skills": [
+            "azure",
+            "aws"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Mild/Moderate Foothill Ranch Elementary School, 3.7 hours/day, 5 days/week,",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Moderate/Severe at Esperanza Education Center, 6 hours/day, 5 days/week, 9.5",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Phoenix Recruitment ",
+        "title": "Mid-Cyber Security Analyst",
+        "skills": [
+            "sql"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Consulate General of Pakistan New York",
+        "title": "Commercial Assistant at Pakistan Consulate New York",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Los Angeles County Office of Education",
+        "title": "Substitute Teacher",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Uplift Education",
+        "title": "Teacher Aide: Uplift Atlas Primary (24-25)",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Birch Family Services",
+        "title": "Direct Support Professional",
+        "skills": [
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Salt Creek - Instructional Assistant SPED - #503",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Madison Square Garden Entertainment Corp.",
+        "title": "Coordinator Global Partnerships",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Music Assistant - 17.5 hours per week (Las Flores K-8 School)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "MS/HS Instructional Assistant (Paraprofessional) 24-25 FT or PT",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant Mild/Moderate Lomarena Elementary School, 5.7 hours/day, 5 days/week, 9.5 mo",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "The Learning Experience",
+        "title": "Morning Preschool Group Teacher",
+        "skills": [
+            "go",
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Vice President, Translational Data Science/Computational Biology - New York City",
+        "skills": [
+            "excel"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Cyber Valley",
+        "title": "Software Engineer (Working Student)",
+        "skills": [
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "\u83ef\u7279\u8fea\u58eb\u5c3c\u516c\u53f8",
+        "title": "Associate Project Manager",
+        "skills": [
+            "go",
+            "c"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant - Special Education 7hr - MULTIPLE POSITIONS",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant, SOCC (LSC) - Petaluma High School",
+        "skills": [
+            "go",
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "2025 Oncology Bioinformatics Intern",
+        "skills": [
+            "r",
+            "ai",
+            "python",
+            "git"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "SUBSTITUTE Paraprofessional / Instructional Assistants",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Regal Rexnord",
+        "title": "Treasury Analyst",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Teacher - TK to 8th Grade for the 2024-25 School Year",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Sam's Club",
+        "title": "(USA) Tire & Battery Technician - Automotive",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Globe Life",
+        "title": "WFH Be Your Own Boss",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Sam's Club",
+        "title": "Tire & Battery Technician - Automotive",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Sam's Club",
+        "title": "(USA) Tire & Battery Technician - Automotive FT",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant SUBSTITUTES - on call basis (elementary and middle school sites)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant for Transitional Kindergarten(TK) Rancho Canada Elementary School For 24/25",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Behavioral Instructional Assistant, Part-time, 6 hours, Jackson Elementary ,Job #25-093",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Genesis Health Clubs",
+        "title": "Kids Club Coordinator",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "The Goddard School",
+        "title": "Infant, Toddler, & Twos Teachers",
+        "skills": [
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "\u57c3\u514b\u68ee\u7f8e\u5b5a\u6709\u9650\u516c\u53f8",
+        "title": "Commercial Advisor",
+        "skills": [
+            "excel",
+            "spring"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Student Music Accompanist",
+        "skills": [
+            "go",
+            "spring"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Plum Valley Paraeducator - 6 Hours Per Day 24/25 School Year",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Globe Life",
+        "title": "Work from Anywhere",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Sam's Club",
+        "title": "Tire & Battery Technician - Automotive",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "ELEMENTARY SCHOOL MONITOR",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Silent Returns",
+        "title": "Head of Research And Development",
+        "skills": [
+            "robotics",
+            "r",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraprofessional I - (Literacy) - Gibson Elementary School #25-76",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Metropolitan Transportation Authority",
+        "title": "Deputy Director Financial Reporting",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Art Teacher Pool 2025-2026",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Metropolitan Transportation Authority",
+        "title": "Assistant Director-Safety Engineering",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "English Teacher",
+        "skills": [
+            "go",
+            "word"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "PARAEDUCATOR, EARLY CHILDHOOD EDUCATION Eligibility Pool (Early Childhood Education)",
+        "skills": [
+            "go",
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Student Music Accompanist",
+        "skills": [
+            "go",
+            "spring"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraprofessional II: Career Guidance - 20 hours/week (Outside Candidates)",
+        "skills": [
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Green Bay Packaging - Great Lakes Division",
+        "title": "Structural Designer Co-Op / Internship",
+        "skills": [
+            "excel",
+            "less"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant - Special Education",
+        "skills": [
+            "go",
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "English as a Second Language (ESL) Teacher",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "Embassy Summer - 2025 USA - ESL Teacher - Los Angeles, CA",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Child Nutrition Assistant / Creekside Early Learning Center (10013018)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Daniel Defense, LLC",
+        "title": "ORDER FULFILLMENT 1",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "339 - Band Teacher - Middle School (2024-25 School Year)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Phoenix Recruitment ",
+        "title": "Technical Artist",
+        "skills": [
+            "unity"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Sphinx Life Solutions",
+        "title": "Insurance Sales - Remote - Work from Home Salesperson - Training Provided- All Backgrounds Considered (Average $90k-$300k +)",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Lakefield Veterinary Group",
+        "title": "Kennel Assistant",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraeducator III - (6 hrs/day) **Hiring Pool**",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Aide - Students with Disabilities (6 Hours)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "PARAEDUCATOR PRESCHOOL JOB #209 - RAMONA - PERMANENT DISTRICT EMPLOYEES ONLY",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Preschool Associate Teacher, Part time - Eligibility Pool, 2024/25 SY",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant - Special Education 3hr",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Head Lifeguard/Swim Instructor, Aquatics- Redondo Union High School Pool, #087",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Internship - Global Nucleic Acid Therapies Communications",
+        "skills": [
+            "excel",
+            "powerpoint",
+            "r",
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraprofessional II",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Teacher",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Scientist, VI Next Bioinformatics",
+        "skills": [
+            "perl",
+            "r",
+            "java",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "Parent Educator: STEM, Technology, ESL, College and Career Readiness",
+        "skills": [
+            "robotics"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Aide - Students with Disabilities - 3 Hours",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Sam's Club",
+        "title": "Cake Decorator Associate",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Spring Branch ISD",
+        "title": "Special Education Teacher Assistant - Adaptive Behavior (AB) - School Year 2025-2026 (Anticipated Va",
+        "skills": [
+            "spring"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "INSTRUCTIONAL AIDE 1:1 ASSISTANT",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Midas Chain",
+        "title": "Distribution Associate",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Teacher",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Snack Bar Employee - Aquatics Complex - Temporary Position - RFP9700",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Para Educator (25-02) - to establish a pool",
+        "skills": [
+            "go",
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "High School Technology Teacher - 9th-12th Grade 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less",
+            "javascript",
+            "spark"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Classroom Assistant Severe Needs Mary Chapa Academy (repost)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "High School Technology Teacher - 9th-12th Grade 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less",
+            "javascript",
+            "spark"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Traffic Playground Monitor -Anderson Elem. (PCN#573) - 7 hours per week",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "\u6885\u897f",
+        "title": "Retail Cosmetics Stock Associate, Somerset Collection - Full Time",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraprofessional II: Career Guidance - 40 hours/week (Outside Candidates)",
+        "skills": [
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "CB&C CPA, P.C.",
+        "title": "Tax Internship",
+        "skills": [
+            "excel",
+            "c"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Process Engineer - Antibody Drug Conjugation (ADC)",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Special Education Instructional Aide I - Middle / High School",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Teacher: Pathway Exploration - Castlemont High School (2024-25)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Orinda Union School District ",
+        "title": "Instructional Assistant - Wagner Ranch Elementary - 19.5 hours/week",
+        "skills": [
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Internship - Regulatory Affairs Labeling",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "High School Special Education Teacher - 9th-12th Grade - 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Principal Product Manager, Digital Health",
+        "skills": [
+            "gcp",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Aide for Special Education (6.0 Hour) (2024/2025)",
+        "skills": [
+            "go",
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "ADM",
+        "title": "Merchandiser II - Kershaw, SC",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraprofessional II: Career Guidance - 40 hours/week (Current Employees )",
+        "skills": [
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Get It - Marketing",
+        "title": "Entry-Level Business Analyst - Remote (Anywhere in US)",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word",
+            "sql"
+        ],
+        "type": "Data Scientist"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant-Special Education-Level 1 (RSP Class) Eich Middle School",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Wellness Center Liaison",
+        "skills": [
+            "go",
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant - Art",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Auquan",
+        "title": "Founder Associate",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "English as a Second Language (ESL) Teacher",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraprofessional II: Career Guidance - 20 hours/week (Current Employees )",
+        "skills": [
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "ACT",
+        "title": "Psychometrician I",
+        "skills": [
+            "r",
+            "python"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Instructional Aide - On-Call (2024-2025)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Internship - Data Scientist",
+        "skills": [
+            "azure",
+            "word",
+            "excel",
+            "r",
+            "powerpoint",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "INSTRUCTIONAL AIDE - CLASSROOM",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "INSTRUCTIONAL AIDE-EARLY CHILDHOOD",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant - Special Education",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Oeson Learning\u2122",
+        "title": "DevOps Training & Internship",
+        "skills": [
+            "docker",
+            "jenkins",
+            "aws",
+            "excel",
+            "kubernetes"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Johnston County Public Schools",
+        "title": "Level 3 Volunteer Arts Education",
+        "skills": [
+            "swift"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Abercrombie & Fitch Co.",
+        "title": "Abercrombie & Fitch - Assistant Manager, Park Meadows",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraeducator- Special Circumstances (8 Hr)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Para-Educator II Pool",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Food Service Worker - CK/Satellite sites - 6 hrs/day, 5 days/wk 10 months/year",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Special Education Assistant - Bulletin# 2425-168",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "Middle School Special Education Teacher - 6th-8th Grade - 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 1961",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Regions Bank",
+        "title": "Corporate Compliance Manager - Quantitative Functions",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Get It - Marketing",
+        "title": "Remote Product Manager",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Mitsubishi Logisnext Americas Inc.",
+        "title": "Engineering Administrator",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Custodian I - Itinerant - PC#1369",
+        "skills": [
+            "go",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "Parent Educator: STEM, Technology, ESL, College and Career Readiness",
+        "skills": [
+            "robotics"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Morgan & Morgan, P.A.",
+        "title": "Litigation Paralegal",
+        "skills": [
+            "less",
+            "excel",
+            "word"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Math Teacher Pool 2025-2026",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Nutanix",
+        "title": "Software Engineering Intern **Summer 2025 (Undergraduate - ONLY)**",
+        "skills": [
+            "go",
+            "c++",
+            "aws",
+            "java",
+            "ai",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "State Preschool Teachers Aide - A.L. Conner School #83330",
+        "skills": [
+            "react"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "ARTECHOUSE",
+        "title": "Production Crew - A/V, I/T, Carpentry, Rigging (NYC)",
+        "skills": [
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "ESL/ELL Teacher (K-5)",
+        "skills": [
+            "express",
+            "spring"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Spring Branch ISD",
+        "title": "Special Education Teacher Assistant - Early Childhood Special Education (ECSE) - School Year 2025-20",
+        "skills": [
+            "spring"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 026",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Crothall Healthcare",
+        "title": "Environmental Services Intern / Crothall Healthcare, HUP Main",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "24-25 Floater Cafeteria Assistant at Cotati-Rohnert Park Unified School District",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Conservice ",
+        "title": "EDE Discrepancy Specialist",
+        "skills": [
+            "excel"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Boba Guys",
+        "title": "Bobarista- Union Square (Part-Time)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Leica Camera North America",
+        "title": "Loss Prevention and Safety Manager",
+        "skills": [
+            "excel"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 035",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Head Lifeguard - Aquatics Complex - Temporary Position - RFP9698",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "English as a Second Language (ESL) Teacher",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Preschool Teacher (Bilingual Spanish Preferred)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "High School Math Teacher - 9th-12th Grade - 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 6928",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Globe Life",
+        "title": "Immediate WFH CSR Entry Level",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": ">>> Technology Teacher: Google Certified a Plus",
+        "skills": [
+            "robotics"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraeducator (John Gutierrez Middle), Special Education PC#1745",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Phoenix Recruitment ",
+        "title": "Unity3D C# Programmer",
+        "skills": [
+            "c#"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "Parent Educator: STEM, Technology, ESL, College and Career Readiness",
+        "skills": [
+            "robotics"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "\u6469\u6839\u58eb\u4e39\u5229",
+        "title": "Registered Client Service Associate",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "Elementary Technology Teacher - K-6th Grade 2025/2026 School Year",
+        "skills": [
+            "powerpoint",
+            "less",
+            "word",
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant & After-School Caregiver",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "English as a Second Language (ESL) Teacher",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Custodian - Golden Hills Elementary School",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Science Teacher Pool 2025-2026",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Chewy",
+        "title": "Workforce Management Scheduling Analyst",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Internship - Data Science",
+        "skills": [
+            "nlp",
+            "word",
+            "excel",
+            "r",
+            "powerpoint"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraeducator II (Special Education) **Hiring Pool**",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "English as a Second Language (ESL) Teacher",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Early Childhood Education Assistant I Exam for Eligibility / Open Position #330",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Morgan & Morgan, P.A.",
+        "title": "Litigation Assistant",
+        "skills": [
+            "less",
+            "excel",
+            "word"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 6204",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Globe Life",
+        "title": "WFH Electrifying Life Insurance",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 5350",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 031",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Cyber Valley",
+        "title": "PhD in Video Generation (Full-time)",
+        "skills": [
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "Parent Educator: STEM, Technology, ESL, College and Career Readiness",
+        "skills": [
+            "robotics"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Campus Monitor - E.V. Cain Middle School",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Jobs via eFinancialCareers",
+        "title": "AFC Education & Development Americas Lead - Vice President",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 4205",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 6914",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Siemens Electrical Products GB&I",
+        "title": "Sr. Accountant-Treasury",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 033",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Lakefield Veterinary Group",
+        "title": "Veterinary Assistant",
+        "skills": [
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Aide - Special Education (6 hours)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Internship - Computational Protein Design",
+        "skills": [
+            "excel",
+            "powerpoint",
+            "r",
+            "word"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Preschool Teacher",
+        "skills": [
+            "less",
+            "go",
+            "c",
+            "r"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Bus Driver Pool",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "English Teacher Pool 2025-2026",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "Middle School Math Teacher - 6th-8th Grade - 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Cafeteria Server (Substitute)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 3506",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "HireMeFast LLC",
+        "title": "Junior Full Stack Developer React/Python",
+        "skills": [
+            "fastapi",
+            "django",
+            "sql",
+            "react",
+            "aws",
+            "typescript",
+            "python"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 5902",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Sunstates Security",
+        "title": "SOC/Command Center Security Officers - P/T - Flex - $25/hr",
+        "skills": [
+            "excel",
+            "word",
+            "c"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Northrop Grumman",
+        "title": "Staff Program Cost Control Analyst - R10181572",
+        "skills": [
+            "excel"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "IDEO",
+        "title": "Play Lab Mechanical Engineer (Contract, Remote Eligible)",
+        "skills": [
+            "spark"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "CADY",
+        "title": "Assistant Studio Manager",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Morgan & Morgan, P.A.",
+        "title": "Case Manager in Training",
+        "skills": [
+            "less"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Lakefield Veterinary Group",
+        "title": "Kennel Assistant",
+        "skills": [
+            "go",
+            "spring"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "High School Math Teacher - 9th-12th Grade - 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant - Wagner Ranch Elementary - 19.5 hours/week",
+        "skills": [
+            "go",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Teacher - 2024-2025 School Year",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 3504",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "CVS Health",
+        "title": "Store Associate",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 6402",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Fincantieri Marine Group",
+        "title": "EHS Coordinator",
+        "skills": [
+            "excel",
+            "powerpoint",
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Specialty Representative, GIC - New York, NY (Queens)",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraeducator (John Gutierrez Middle), Special Education PC#1745 *Internal Applicants Only*",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Chinese-American Planning Council",
+        "title": "Family Development Coach (After-School Program)",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "English as a Second Language (ESL) Teacher",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "Middle School English Language Arts Teacher - 6th-8th Grade - 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 3021",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Procurement Excellence Manager",
+        "skills": [
+            "excel"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Paraeducator for Special Education/Alternative Ed Schools",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "Middle School Math Teacher - 6th-8th Grade - 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Elementary Teacher Pool",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 5505",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 6654",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "HVMG - Hospitality Ventures Management Group",
+        "title": "Laundry Attendant",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Aide for Special Education (3.75 Hour)",
+        "skills": [
+            "go",
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Spring Branch ISD",
+        "title": "Special Education Teacher Assistant - Positive Approach to Student Success (PASS) - School Year 2025",
+        "skills": [
+            "spring"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "Elementary Math Teacher - 3rd-5th Grade - 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "INSTRUCTIONAL AIDE - BEHAVIOR",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraeducator II",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "Elementary Technology Teacher - K-6th Grade 2025/2026 School Year",
+        "skills": [
+            "powerpoint",
+            "less",
+            "word",
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 032",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Aide - Creekside Oaks Elementary",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Substitute Teacher",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 077",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Night Custodian - Bulletin# 2425-170",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "DK Security",
+        "title": "Lead Security Officer",
+        "skills": [
+            "less",
+            "excel",
+            "word"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "\u6885\u897f",
+        "title": "Retail Merchandising Support Associate, Square One - Full Time",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Technician IV, Animal Care",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Madison Square Garden Entertainment Corp.",
+        "title": "Director Business Solutions",
+        "skills": [
+            "go",
+            "excel"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "24 Hour Fitness",
+        "title": "Club Janitorial Attendant",
+        "skills": [
+            "rust"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "PARAEDUCATOR PRESCHOOL JOB 38D - VARIOUS SITES",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant - Special Education - Alta Vista Elementary #093",
+        "skills": [
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "Middle School English Language Arts Teacher - 6th-8th Grade - 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "HireMeFast LLC",
+        "title": "Junior Frontend Engineer (JavaScript/HTML/CSS)",
+        "skills": [
+            "javascript"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Duluth Public Schools",
+        "title": "Long Term Substitute Spanish Teacher- 1.0 FTE",
+        "skills": [
+            "unity"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "Always Best Care of Rock Hill",
+        "title": "Personal Care Aides (PCA) and Home Caregivers Needed",
+        "skills": [
+            "r"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 3451",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "CVS Health",
+        "title": "Store Associate",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "CVS Health",
+        "title": "Store Associate",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructor - Art - Part Time",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Yardi",
+        "title": "Intern, Associate Technical Account Manager",
+        "skills": [
+            "go",
+            "sql"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": ">> PARENT ED: STEM, GOOGLE CERTIFIED, TESOL CERTIFIED, MENTAL HEALTH",
+        "skills": [
+            "robotics"
+        ],
+        "type": "Software Engineer"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Paraprofessional I (Music/Gen Ed)- Milpitas High School - 106150",
+        "skills": [
+            "go",
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 023",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 6924",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Phoenix Recruitment ",
+        "title": "Junior iOS Developer",
+        "skills": [
+            "swift",
+            "git",
+            "c",
+            "java",
+            "python"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Patterned Learning AI",
+        "title": "San Francisco Bay Area (Remote)",
+        "skills": [
+            "aws",
+            "excel",
+            "ai",
+            "typescript",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 5352",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Sam's Club",
+        "title": "(USA) Produce Lead",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Principal Scientist - Precision Medicine",
+        "skills": [
+            "sql",
+            "spark",
+            "c++",
+            "r",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Wyldside Media",
+        "title": "ONE HOUR INTERVIEW in LOS ANGELES for $150",
+        "skills": [
+            "express",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 5508",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 4207",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 5521",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 5502",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Constellation",
+        "title": "Supply Intern",
+        "skills": [
+            "spring"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "HireMeFast LLC",
+        "title": "Junior iOS Developer",
+        "skills": [
+            "swift",
+            "git",
+            "c",
+            "java",
+            "python"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Walgreens",
+        "title": "Pharmacist (Full or Part Time)",
+        "skills": [
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Internship - Data Engineer",
+        "skills": [
+            "excel",
+            "powerpoint",
+            "r",
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Student Transportation Van Driver",
+        "skills": [
+            "go",
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Head Start Roving Teacher",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Huobi Los Angeles",
+        "title": "Enterprise and Technology Development Consultant",
+        "skills": [
+            "blockchain",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Madison Square Garden Entertainment Corp.",
+        "title": "VP Business Solutions",
+        "skills": [
+            "excel",
+            "powerpoint",
+            "c"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "TESOL International Association",
+        "title": "Embassy Summer - 2025 USA - Academic Manager - Los Angeles, CA",
+        "skills": [
+            "go",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 5901",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 2213",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 2212",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 2903",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Chinese Mutual Aid Association (CMAA)",
+        "title": "Part-time Citizenship and Education Coordinator",
+        "skills": [
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Phoenix Recruitment ",
+        "title": "Junior Python Developer",
+        "skills": [
+            "flask",
+            "javascript",
+            "azure",
+            "django",
+            "git",
+            "mysql",
+            "aws",
+            "postgresql",
+            "mongodb",
+            "python"
+        ],
+        "type": "Cloud Architect"
+    },
+    {
+        "company": "Northrop Grumman",
+        "title": "Senior Principal Cyber Systems Engineer \u2013 Active TS/SCI Clearance - R10182232",
+        "skills": [
+            "sql",
+            "ansible",
+            "python",
+            "bitbucket"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Saks Fifth Avenue Stores (SFA)",
+        "title": "Luxury Style Advisor - Handbags",
+        "skills": [
+            "r"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 6925",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 4209",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Energy Jobline",
+        "title": "Distributed Systems Software Engineer, Python / Go",
+        "skills": [
+            "azure",
+            "go",
+            "jenkins",
+            "aws",
+            "kubernetes",
+            "openstack",
+            "circleci",
+            "ai",
+            "github",
+            "terraform",
+            "python"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "Lockheed Martin",
+        "title": "Training Execution & Training Products Manager (HYBRID TELEWORK)",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Drug Production, Associate Manufacturing Specialist",
+        "skills": [
+            "r"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Assistant-Arts Education - 17.5 hours per week (Las Flores K-8 School)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "CUSTODIAN I (SW) (CHS)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 018",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 5351",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Custodian SUBSTITUTES - on call basis (elementary and middle school sites)",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "HireMeFast LLC",
+        "title": "Junior Node.JS Developer",
+        "skills": [
+            "sql",
+            "javascript"
+        ],
+        "type": "Full-Stack Developer"
+    },
+    {
+        "company": "Eastern Shore Chamber of Commerce",
+        "title": "Legal Assistant",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "High School English Teacher - 9th-12th Grade - 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Instructional Aide - Glen Edwards Middle School-Repost",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Caf\u00e9 Assistant (Full-Time)",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Mastery Schools",
+        "title": "Elementary Math Teacher - 3rd-5th Grade - 2025/2026 School Year",
+        "skills": [
+            "go",
+            "less"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Camp Bayou Outdoor Learning Center",
+        "title": "Volunteer: Nature Lovers Wanted",
+        "skills": [
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Cardiometabolic MSL - Seattle, WA",
+        "skills": [
+            "r"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 6203",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "A Hiring Company",
+        "title": "Estimator",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 6401",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Rooms To Go",
+        "title": "Retail Stock Associate",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Fitch Group, Inc.",
+        "title": "Editor - New York",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 4204",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 2207",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 064",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 052",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "CVS Health",
+        "title": "Store Associate",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "CVS Health",
+        "title": "Pharmacy Technician",
+        "skills": [
+            "express",
+            "word"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Santa Ana Unified School District",
+        "title": "Substitute Teacher - 2024-2025 School Year",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "CVS Health",
+        "title": "Store Associate",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 082",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 2905",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Akin Care Senior Services",
+        "title": "CHHA NEEDED ASAP 8AM-8PM IN HILLISBOROUGH Saturday and Sunday",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "CDM Smith",
+        "title": "CEI Senior Roadway and Bridge Transportation Engineer 7",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Best-of-life",
+        "title": "Virtual Leadership Coach",
+        "skills": [
+            "go"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Process Engineer I - Fermentation",
+        "skills": [
+            "less"
+        ],
+        "type": "IT Project Manager"
+    },
+    {
+        "company": "Harmony Public Schools",
+        "title": "TEACHER-PHYSICAL EDUCATION",
+        "skills": [
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Robert Half",
+        "title": "Tax Preparer",
+        "skills": [
+            "go",
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 088",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Red Cell Partners",
+        "title": "Field Engineer",
+        "skills": [
+            "azure",
+            "aws",
+            "python",
+            "ai"
+        ],
+        "type": "AI/Machine Learning Engineer"
+    },
+    {
+        "company": "CDM Smith",
+        "title": "CEI Roadway and Bridge Construction Engineer 7",
+        "skills": [
+            "excel",
+            "word"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "California Department of Education",
+        "title": "Campus Security @ Alameda High School",
+        "skills": [
+            "go"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Storygrounds",
+        "title": "Open Lead Webcomic Artist (Action, Urban Fantasy, Cyberpunk)",
+        "skills": [
+            "excel"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Unity Preparatory Charter School of Brooklyn",
+        "title": "English Language Arts ELA Teacher",
+        "skills": [
+            "unity"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Neville Center at Fresh Pond",
+        "title": "Certified Nursing Assistant (CNA) PRN/Per Diem/Part Time Week Ends Only",
+        "skills": [
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 028",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 7281",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "CVS Health",
+        "title": "Pharmacy Technician",
+        "skills": [
+            "express",
+            "word"
+        ],
+        "type": "Cybersecurity Engineer"
+    },
+    {
+        "company": "Education Through Music",
+        "title": "Music Teacher Intern",
+        "skills": [
+            "spring"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "Music & Arts",
+        "title": "MAA Professional Music Teacher Store 5075",
+        "skills": [
+            "express"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Athens Services",
+        "title": "Utility Driver - Non CDL",
+        "skills": [
+            "c"
+        ],
+        "type": "Unknown"
+    },
+    {
+        "company": "Jobs for Humanity",
+        "title": "Global Early Career Professional",
+        "skills": [
+            "powerpoint",
+            "excel",
+            "word"
+        ],
+        "type": "Intern"
+    },
+    {
+        "company": "BioSpace",
+        "title": "Asset Strategy Leader - Specialty",
+        "skills": [
+            "go",
+            "less"
+        ],
+        "type": "Unknown"
+    }
+]

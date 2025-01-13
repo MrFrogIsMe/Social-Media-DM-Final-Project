@@ -80,12 +80,13 @@ def extract_keywords(text):
 def main():
     # 讀取和處理工作資料
     jobs = []
-    with open('jobs.csv', 'r', encoding='utf-8') as file:
+    with open('american_jobs_classified.csv', 'r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
             company = row['company']
             title = row['title']
             description = row['description']
+            type = row['type']
             
             try:
                 # 提取技術技能
@@ -95,7 +96,8 @@ def main():
                 jobs.append({
                     "company": company,
                     "title": title,
-                    "skills": skills
+                    "skills": skills,
+                    "type": type
                 })
                 print(f"成功處理 {company} 的工作資料")
                 
@@ -103,7 +105,7 @@ def main():
                 print(f"處理 {company} 的工作資料時發生錯誤: {str(e)}")
 
     # 將處理後的資料儲存為 JSON
-    with open('jobs_with_skills_no_model.json', 'w', encoding='utf-8') as json_file:
+    with open('american_jobs_classified_no_model.json', 'w', encoding='utf-8') as json_file:
         json.dump(jobs, json_file, indent=4, ensure_ascii=False)
 
     print("技能提取完成並儲存至 'jobs_with_skills.json'")

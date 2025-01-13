@@ -6,92 +6,122 @@ client = OpenAI(api_key="")
 
 def create_embeddings(texts, model="text-embedding-ada-002"):
     """
-    使用 OpenAI 創建文本嵌入
+    Create text embeddings using OpenAI
     """
     try:
+        if not texts:
+            return []
+            
+        # Ensure texts are strings
+        texts = [str(text).strip() for text in texts if text]
+        
+        # Skip empty texts
+        if not texts:
+            return []
+            
         embeddings = []
         for i in range(0, len(texts), 50):
             batch = texts[i:i+50]
             response = client.embeddings.create(
-                input=batch, 
+                input=batch,
                 model=model
             )
             embeddings.extend([embed.embedding for embed in response.data])
         return embeddings
     except Exception as e:
-        print(f"創建 embedding 時發生錯誤: {e}")
+        print(f"Error creating embeddings: {e}")
         return []
 
 def calculate_skills_similarity(jobs, user_skills):
     """
-    計算用戶技能與工作的技能相似度
+    Calculate similarity between user skills and job skills
     """
-    # 創建用戶技能的嵌入
-    user_skills_embedding = create_embeddings([user_skills])[0]
-    
-    # 提取每個工作的技能描述並創建嵌入
-    job_skills = [" ".join(job["skills"]) for job in jobs]
-    job_embeddings = create_embeddings(job_skills)
-    
-    # 計算相似度
-    similarities = cosine_similarity([user_skills_embedding], job_embeddings)[0]
-    
-    # 添加相似度到每個工作
-    for i, job in enumerate(jobs):
-        job["similarity"] = similarities[i]
-    
-    # 根據相似度排序
-    sorted_jobs = sorted(jobs, key=lambda x: x["similarity"], reverse=True)
-    
-    return sorted_jobs
+    try:
+        # Create user skills embedding
+        user_skills_list = [user_skills]  # Wrap in list to ensure 2D array
+        user_embeddings = create_embeddings(user_skills_list)
+        
+        if not user_embeddings:
+            raise ValueError("Failed to create user skills embeddings")
 
-def analyze_multiple_skills(jobs, user_skills_list):
+        # Extract job skills and create embeddings
+        job_skills = [" ".join(job["skills"]) for job in jobs if job.get("skills")]
+        job_embeddings = create_embeddings(job_skills)
+        
+        if not job_embeddings:
+            raise ValueError("Failed to create job skills embeddings")
+
+        # Ensure proper shape for cosine similarity
+        user_embedding_array = [user_embeddings[0]]  # Reshape to 2D array
+        
+        # Calculate similarities
+        similarities = cosine_similarity(user_embedding_array, job_embeddings)[0]
+        
+        # Add similarity scores to jobs
+        jobs_with_similarity = []
+        for i, job in enumerate(jobs):
+            if i < len(similarities):  # Ensure we have a similarity score
+                job_copy = job.copy()
+                job_copy["similarity"] = float(similarities[i])
+                jobs_with_similarity.append(job_copy)
+        
+        # Sort by similarity
+        return sorted(jobs_with_similarity, key=lambda x: x["similarity"], reverse=True)
+    except Exception as e:
+        print(f"Error calculating similarity: {e}")
+        return []
+
+def recommend_jobs(jobs, user_skills):
     """
-    分析多個用戶的技能與工作的相似度
+    Recommend top 5 relevant jobs based on user skills
     """
-    results = {}
-    for user_skills in user_skills_list:
-        print(f"\n分析用戶技能: {user_skills}")
+    try:
         similar_jobs = calculate_skills_similarity(jobs, user_skills)
         
-        # 顯示前 5 個最相似的工作
-        print("前 5 個最相似的工作：")
-        user_results = []
+        recommendations = []
         for job in similar_jobs[:5]:
-            result = {
-                "company": job["company"],
-                "title": job["title"],
-                "similarity": job["similarity"]
-            }
-            user_results.append(result)
-            print(f"公司: {result['company']}")
-            print(f"職位: {result['title']}")
-            print(f"相似度: {result['similarity']:.4f}")
-            print("----")
+            recommendations.append({
+                "company": job.get("company", "Unknown"),
+                "title": job.get("title", "Unknown"),
+                "similarity": job.get("similarity", 0.0),
+                "skills": job.get("skills", [])  # Added to show required skills
+            })
         
-        results[user_skills] = user_results
-    return results
+        return recommendations
+    except Exception as e:
+        print(f"Error recommending jobs: {e}")
+        return []
 
-# 使用範例
 def main():
-    # JSON 資料加載
-    with open('job.json', 'r', encoding='utf-8') as f:
-        jobs = json.load(f)
-    
-    # 用戶技能列表
-    user_skills_list = [
-        "Python, machine learning, data analysis, cloud computing",
-        "Marketing, SEO, digital advertising, content creation",
-        "Project management, Agile methodologies, team leadership",
-        "Data visualization, statistics, SQL, business intelligence"
-    ]
-    
-    # 計算並分析多個用戶的技能相似度
-    results = analyze_multiple_skills(jobs, user_skills_list)
-    
-    # 保存結果
-    with open("results.json", "w", encoding="utf-8") as f:
-        json.dump(results, f, ensure_ascii=False, indent=4)
+    try:
+        # Load JSON data
+        with open('american_jobs_classified_no_model.json', 'r', encoding='utf-8') as f:
+            jobs = json.load(f)
+        
+        # Get user skills
+        user_skills = input("Please enter your skills, separated by commas: ").strip()
+        
+        if not user_skills:
+            print("No skills entered. Please provide at least one skill.")
+            return
+            
+        # Get recommendations
+        recommendations = recommend_jobs(jobs, user_skills)
+        
+        if not recommendations:
+            print("No matching jobs found. Please try with different skills.")
+            return
+            
+        # Display recommendations
+        print("\nBased on your skills, here are the most suitable jobs:")
+        for i, rec in enumerate(recommendations, 1):
+            print(f"\n{i}. Company: {rec['company']}")
+            print(f"   Position: {rec['title']}")
+            print(f"   Match Score: {rec['similarity']:.2%}")
+            print(f"   Required Skills: {', '.join(rec['skills'])}")
+        
+    except Exception as e:
+        print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
     main()
